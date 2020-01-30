@@ -83,8 +83,8 @@ Motorola,Moto G (5S) Plus,sanders_nt,2857-2879MB,Phone,Qualcomm MSM8953,1080x192
 Motorola,moto z3 play,beckham,3737-3746MB,Phone,Qualcomm SDM636,1080x2160,480,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
 Motorola,Moto X (4),payton,2739-3743MB,Phone,Qualcomm SDM630,1080x1920,480,arm64-v8a;armeabi-v7a;armeabi,25;26;27;28,3.2
 Motorola,Moto X (4),payton_sprout,2739-4096MB,Phone,Qualcomm SDM630,1080x1920,480,arm64-v8a;armeabi-v7a;armeabi,25;26;27;28,3.2
-Motorola,moto g(7) plus,lake_n,3745-3746MB,Phone,Qualcomm SDM636,1080x2270,408;480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Motorola,moto g(7) plus,lake,5742MB,Phone,Qualcomm SDM636,1080x2270,480,arm64-v8a;armeabi-v7a;armeabi,28,3.2
+Motorola,moto g(7) plus,lake_n,3745-3746MB,Phone,Qualcomm SDM636,1080x2270,408;480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Motorola,Motorola one,deen_sprout,3568-3573MB,Phone,Qualcomm MSM8953,720x1520,320,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 Motorola,moto g(8) plus,doha,3644MB,Phone,Qualcomm SM6125,1080x2280,420,arm64-v8a;armeabi-v7a;armeabi,28,3.2
 Motorola,moto g(8) plus,doha_n,3644MB,Phone,Qualcomm SM6125,1080x2280,420,arm64-v8a;armeabi-v7a;armeabi,28,3.2
@@ -163,8 +163,8 @@ Realme,realme 5Pro,RMX1971L1,3658MB,Phone,Qualcomm SDM712,1080x2340,480,arm64-v8
 Redmi,Redmi K20,davinciin,5557-5600MB,Phone,Qualcomm SM7150,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Redmi,Redmi K20,davinci,5557-5600MB,Phone,Qualcomm SM7150,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Redmi,Redmi  Note  7,lavender,3734MB,Phone,Qualcomm SDM660,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28,3.2
-Redmi,Redmi K20 Pro,raphael,5507-5523MB,Phone,Qualcomm SDM855,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Redmi,Mi  9T  Pro,raphaelin,5504-5523MB,Phone,Qualcomm SDM855,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Redmi,Redmi K20 Pro,raphael,5507-5523MB,Phone,Qualcomm SDM855,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy S8,dreamlteks,3452-3679MB,Phone,Samsung Exynos 8895,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy S8,dreamqltecmcc,3347-3363MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy S8,dreamqltechn,3347-3371MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
