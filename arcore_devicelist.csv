@@ -26,9 +26,9 @@ Huawei,Huawei Mate 20 X,HWEVR,5639-5667MB,Phone,HiSilicon KIRIN980,1080x2244,480
 Huawei,HUAWEI P30,HWELE,5624-5653MB,Phone,HiSilicon KIRIN980,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Huawei,HUAWEI Y9 2019,HWJKM-H,2716-3691MB,Phone,HiSilicon KIRIN710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
 Huawei,P30 Pro,HWVOG,7606-7669MB,Phone,HiSilicon KIRIN980,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Huawei,P30 Pro,HW-02L,5653-7585MB,Phone,HiSilicon KIRIN970,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Huawei,P30 Pro,HW-02L,5653-7516MB,Phone,HiSilicon KIRIN970,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Huawei,Mate 20,HWHMA,3594-3657MB,Phone,HiSilicon KIRIN980,1080x2244,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Huawei,nova 3i,HWINE,3690-3712MB,Phone,HiSilicon KIRIN710,1080x2340;2340x1080,480,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
+Huawei,nova 3i,HWINE,3690-3712MB,Phone,HiSilicon KIRIN710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
 Huawei,P20 lite,HWANE,3783-3788MB,Phone,HiSilicon KIRIN659,1080x2280,480,arm64-v8a;armeabi-v7a;armeabi,26;28,3.2
 Huawei,Nexus 6P,angler,2702-2799MB,Phone,Qualcomm MSM8994,1440x2560,560,arm64-v8a;armeabi-v7a;armeabi,23;24;25;26;27,3.1;3.2
 Huawei,nova 4,HWVCE,7663-7714MB,Phone,HiSilicon KIRIN970,1080x2310,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
@@ -39,10 +39,10 @@ Huawei,HONOR View20,HWPCT,5638-5667MB,Phone,HiSilicon KIRIN980,1080x2310,480,arm
 Huawei,PORSCHE DESIGN HUAWEI Mate RS,HWNEO,5656-5703MB,Phone,HiSilicon KIRIN970,1080x2160;1440x2880,480;640,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 Huawei,Honor Magic 2,HWTNY,7549-7613MB,Phone,HiSilicon KIRIN980,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Huawei,Mate 20 lite,HWSNE,3684-3711MB,Phone,HiSilicon KIRIN710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
-Infinix,NOTE 7,Infinix-X690C,5817MB,Phone,Mediatek MT6769,720x1640,320,arm64-v8a;armeabi-v7a;armeabi,29,3.2
+Infinix,NOTE 7,Infinix-X690C,3809MB,Phone,Mediatek MT6769,720x1640,320,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Infinix,NOTE 7,Infinix-X690,3809MB,Phone,Mediatek MT6769,720x1640,320,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Infinix,NOTE 7,Infinix-X690B,5819MB,Phone,Mediatek MT6769,720x1640,320,arm64-v8a;armeabi-v7a;armeabi,29,3.2
-Infinix,Note 6,Infinix-X610,3761MB,Phone,Mediatek MT6765,1080x2160,480,arm64-v8a;armeabi-v7a;armeabi,28,3.2
+Infinix,Note 6,Infinix-X610,3760MB,Phone,Mediatek MT6765,1080x2160,480,arm64-v8a;armeabi-v7a;armeabi,28,3.2
 Kyocera,TORQUE G04,KYV46,3735-3738MB,Phone,Qualcomm SDM660,1080x1920,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 LGE,Q8,cv7an,3636-3641MB,Phone,Qualcomm SDM450,1080x2160,420,armeabi-v7a;armeabi,27;28,3.2
 LGE,Q8,anna,3778-3781MB,Phone,Qualcomm MSM8996,1440x2560,640,arm64-v8a;armeabi-v7a;armeabi,24;26,3.2
@@ -57,14 +57,14 @@ LGE,LG Q6,mh,2880-2891MB,Phone,Qualcomm MSM8940,1080x2004;1080x2160,480,armeabi-
 LGE,LG V60 ThinQ,timelm,7681MB,Phone,Qualcomm SM8150,1080x2460,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 LGE,LG G7 One,phoenix_sprout,3714-3719MB,Phone,Qualcomm MSM8998,1440x3120,560,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 LGE,VELVET,caymanlm,7508MB,Phone,Qualcomm SM7250,1080x2460,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
-LGE,LG G6,lucye,3778-3782MB,Phone,Qualcomm MSM8996,1440x2672;1440x2880,640,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
+LGE,LG G6,lucye,3777-3782MB,Phone,Qualcomm MSM8996,1440x2672;1440x2880,640,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 LGE,Signature,flashsignaturelm,11432MB,Phone,Qualcomm SM8150,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28,3.2
 LGE,LG Stylo 5,cv7as,2811MB,Phone,Qualcomm SDM450,1080x2160,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 LGE,LG style2,L-01L,3565MB,Phone,Qualcomm SDM450,1080x2160,480,arm64-v8a;armeabi-v7a;armeabi,28,3.2
 LGE,LG Stylo 5+,cv7as-pr,2811MB,Phone,Qualcomm SDM450,1080x2160,420,arm64-v8a;armeabi-v7a;armeabi,28,3.2
-LGE,LG G7 ThinQ,judyln,3646-3654MB,Phone,Qualcomm SDM845,1440x3120,560,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
+LGE,LG G7 ThinQ,judyln,3644-3654MB,Phone,Qualcomm SDM845,1440x3120,560,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
 LGE,V30+,L-01K,3717-3722MB,Phone,Qualcomm MSM8998,1440x2880,640,arm64-v8a;armeabi-v7a;armeabi,26;28,3.2
-LGE,LG V35 ThinQ,judyp,5644-5652MB,Phone,Qualcomm SDM845,1440x2880,560,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
+LGE,LG V35 ThinQ,judyp,5645-5652MB,Phone,Qualcomm SDM845,1440x2880,560,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
 LGE,G8s,betalm,5472MB,Phone,Qualcomm SM8150,1080x2248,420,arm64-v8a;armeabi-v7a;armeabi,28,3.2
 LGE,V40 ThinQ,judypn,5641-5652MB,Phone,Qualcomm SDM845,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 LGE,G8X ThinQ,mh2lm,5512-7434MB,Phone,Qualcomm SM8150,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
@@ -74,8 +74,8 @@ LGE,G Pad 5 10.1 FHD,tf10w,3701MB,Tablet,Qualcomm MSM8996Pro,1200x1920,240,arm64
 LGE,V50 ThinQ,flashlm,5435-5437MB,Phone,Qualcomm SM8150,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 LGE,LG V50 ThinQ,flashlmdd,5433-5437MB,Phone,Qualcomm SM8150,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 LGE,V30,joan,3717-3723MB,Phone,Qualcomm MSM8998,1440x2678;1440x2880,640,arm64-v8a;armeabi-v7a;armeabi,25;26;28,3.2
-Motorola,moto g(7) power,ocean,2805-2819MB,Phone,Qualcomm SDM632,720x1520,320,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Motorola,moto g(7) power,ocean_t,3571-3573MB,Phone,Qualcomm SDM632,720x1520,320,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Motorola,moto g(7) power,ocean,2819-3565MB,Phone,Qualcomm SDM632,720x1520,320,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Motorola,moto g(7) power,ocean_t,2821-3571MB,Phone,Qualcomm SDM632,720x1520,320,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Motorola,moto g(7) power,ocean_n,2821-3571MB,Phone,Qualcomm SDM632,720x1520,320,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Motorola,motorola one vision,kane_sprout,3727-3742MB,Phone,Samsung Exynos 9609,1080x2520,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Motorola,motorola one action,troika_sprout,3727-3742MB,Phone,Samsung Exynos 9609,1080x2520,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
@@ -86,7 +86,7 @@ Motorola,motorola edge,racer,5455MB,Phone,Qualcomm SM7250,1080x2340,440,arm64-v8
 Motorola,moto g(8) play,lima,1810MB,Phone,Mediatek MT6771,720x1520,280,armeabi-v7a;armeabi,28,3.2
 Motorola,motorola edge plus,burton,11751MB,Phone,Qualcomm SM8250,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Motorola,moto g(8) power lite,blackjack,3710MB,Phone,Mediatek MT6765,720x1600,260,arm64-v8a;armeabi-v7a;armeabi,28,3.2
-Motorola,moto z4,foles,3609-3629MB,Phone,Qualcomm SM6150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Motorola,moto z4,foles,3609-3628MB,Phone,Qualcomm SM6150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Motorola,moto g(7),river,3571-3573MB,Phone,Qualcomm SDM632,1080x2270,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Motorola,moto g(7),river_n,3571-3573MB,Phone,Qualcomm SDM632,1080x2270,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Motorola,Moto G (5S) Plus,sanders_n,3619-3641MB,Phone,Qualcomm MSM8953,1080x1920,480,armeabi-v7a;armeabi,25;27,3.2
@@ -94,7 +94,7 @@ Motorola,Moto G (5S) Plus,sanders,2857-2879MB,Phone,Qualcomm MSM8953,1080x1920,4
 Motorola,Moto G (5S) Plus,sanders_nt,2857-2879MB,Phone,Qualcomm MSM8953,1080x1920,480,armeabi-v7a;armeabi,25;27,3.2
 Motorola,moto g power,sofia,3645MB,Phone,Qualcomm SM6125,1080x2300,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Motorola,moto z3 play,beckham,3737-3746MB,Phone,Qualcomm SDM636,1080x2160,480,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
-Motorola,Moto X (4),payton,2739-5741MB,Phone,Qualcomm SDM630,1080x1920,480,arm64-v8a;armeabi-v7a;armeabi,25;26;27;28,3.2
+Motorola,Moto X (4),payton,2739-3743MB,Phone,Qualcomm SDM630,1080x1920,480,arm64-v8a;armeabi-v7a;armeabi,25;26;27;28,3.2
 Motorola,Moto X (4),payton_sprout,2739-4096MB,Phone,Qualcomm SDM630,1080x1920,480,arm64-v8a;armeabi-v7a;armeabi,25;26;27;28,3.2
 Motorola,moto g(7) plus,lake,5743MB,Phone,Qualcomm SDM636,1080x2270,480,arm64-v8a;armeabi-v7a;armeabi,28,3.2
 Motorola,moto g(7) plus,lake_n,3745-3746MB,Phone,Qualcomm SDM636,1080x2270,408;480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
@@ -106,7 +106,7 @@ Motorola,Moto Z (2) Force,nash,3724-3731MB,Phone,Qualcomm MSM8998,1440x2560,640,
 Motorola,Moto Z(3),messi,3722-3729MB,Phone,Qualcomm MSM8998,1080x2160,480,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
 Motorola,motorola one zoom,parker,3628MB,Phone,Qualcomm SM6150,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28,3.2
 Motorola,moto g(6),ali_n,2855-2856MB,Phone,Qualcomm SDM450,1080x2160,480,armeabi-v7a;armeabi,26;28,3.2
-Motorola,moto g(6),ali,3617-3618MB,Phone,Qualcomm SDM450,1080x2160,480,armeabi-v7a;armeabi,26;28,3.2
+Motorola,moto g(6),ali,2856-3617MB,Phone,Qualcomm SDM450,1080x2160,480,armeabi-v7a;armeabi,26;28,3.2
 Motorola,moto g(8) power,sofiar,3675MB,Phone,Qualcomm SM6125,1080x2300,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Motorola,motorola one power,chef_sprout,3737-3747MB,Phone,Qualcomm SDM636,1080x2246,480,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 Motorola,moto g(8),rav,3645MB,Phone,Qualcomm SM6125,720x1560,280,arm64-v8a;armeabi-v7a;armeabi,29,3.2
@@ -134,31 +134,37 @@ OnePlus,OnePlus 7 Pro 5G,OnePlus7ProNR,7401-7402MB,Phone,Qualcomm SM8150,1440x31
 OnePlus,OnePlus 7 Pro,OnePlus7Pro,7477-7478MB,Phone,Qualcomm SM8150,1440x3120,560,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 OnePlus,OnePlus 7 Pro,OP7ProNRSpr,7401-7402MB,Phone,Qualcomm SM8150,1440x3120,560,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 OnePlus,OnePlus 7 Pro,OnePlus7ProTMO,7477-7478MB,Phone,Qualcomm SM8150,1440x3120,560,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-OnePlus,OnePlus5T,OnePlus5T,5711-7717MB,Phone,Qualcomm MSM8998,1080x2160,420,arm64-v8a;armeabi-v7a;armeabi,25;26;27;28;29,3.2
+OnePlus,OnePlus5T,OnePlus5T,5711-5719MB,Phone,Qualcomm MSM8998,1080x2160,420,arm64-v8a;armeabi-v7a;armeabi,25;26;27;28;29,3.2
 OnePlus,OnePlus 7,OnePlus7,5478-5479MB,Phone,Qualcomm SM8150,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 OnePlus,OnePlus3T,OnePlus3T,4096-5742MB,Phone,Qualcomm MSM8996,1080x1920,420;480,arm64-v8a;armeabi-v7a;armeabi,23;24;25;26;28,3.1;3.2
 OnePlus,OnePlus5,OnePlus5,4096-7718MB,Phone,Qualcomm MSM8998,1080x1920,420,arm64-v8a;armeabi-v7a;armeabi,25;26;27;28;29,3.2
 OnePlus,OnePlus6T,OnePlus6TSingle,7636-7640MB,Phone,Qualcomm SDM845,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-OnePlus,OnePlus6T,OnePlus6T,5633-7636MB,Phone,Qualcomm SDM845,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+OnePlus,OnePlus6T,OnePlus6T,7636-7637MB,Phone,Qualcomm SDM845,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 OnePlus,OnePlus 8 5G UW,OnePlus8VZW,7616MB,Phone,Qualcomm SM8250,1080x2400,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 OnePlus,OnePlus 7T Pro 5G,OnePlus7TProNR,11562MB,Phone,Qualcomm SM8150P,1440x3120,560,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 OnePlus,OnePlus 8 5G ,OnePlus8TMO,7616MB,Phone,Qualcomm SM8250,1080x2400,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 OnePlus,OnePlus 8,OnePlus8,7616MB,Phone,Qualcomm SM8250,1080x2400,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
-OnePlus,OnePlus 8 Pro,OnePlus8Pro,11586MB,Phone,Qualcomm SM8250,1080x2376,400,arm64-v8a;armeabi-v7a;armeabi,29,3.2
-OnePlus,OnePlus 6,OnePlus6,5633-7662MB,Phone,Qualcomm SDM845,1080x2280,420,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
-Oppo,realme X青春版,RMX1851CN,3658MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+OnePlus,OnePlus 8 Pro,OnePlus8Pro,7616MB,Phone,Qualcomm SM8250,1080x2376,400,arm64-v8a;armeabi-v7a;armeabi,29,3.2
+OnePlus,OnePlus 6,OnePlus6,5632-7637MB,Phone,Qualcomm SDM845,1080x2280,420,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
+Oppo,realme X青春版,RMX1851CN,3658-5656MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Oppo,A92,OP4C72L1,7633MB,Phone,Qualcomm SM6125,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Oppo,Find X2 Pro 中国版,OP4A7A,11526MB,Phone,Qualcomm SM8250,1440x3168,560,arm64-v8a;armeabi-v7a;armeabi,29,3.2
-Oppo,Reno 标准版,OP46B1,5621-7626MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Oppo,Reno 标准版,OP46B1,5622-7625MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Oppo,A52 中国版,OP4AE7,7633MB,Phone,Qualcomm SM6125,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
+Oppo,Find X2 Lite,OP4C41L1,7411MB,Phone,Qualcomm SM7250,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Oppo,Reno 10x room,OP4847,7453-7458MB,Phone,Qualcomm SM8150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,Reno 10x Room,OP4847L1,7453-7458MB,Phone,Qualcomm SM8150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,Reno2 Z 中国版,OP4A43,7614-7625MB,Phone,Mediatek MT6779p90,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,realme 3Pro,RMX1853,5656MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28,3.2
 Oppo,Find X2 中国版,OP4A77,7540MB,Phone,Qualcomm SM8250,1440x3168,560,arm64-v8a;armeabi-v7a;armeabi,29,3.2
+Oppo,A52,OP4C7BL1,3641MB,Phone,Qualcomm SM6125,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
+Oppo,A52,OP4C77L1,5634MB,Phone,Qualcomm SM6125,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Oppo,Reno 10x Zoom,OP4845,7529-7534MB,Phone,Qualcomm SM8150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,Reno 10x Zoom,OP4845L1,7529-7534MB,Phone,Qualcomm SM8150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,Reno 2,OP4B83L1,7563-7577MB,Phone,Qualcomm SM7150,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,realme X,RMX1901CN,3624-5621MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,Reno3 元气版 5G,OP4AB5,7411MB,Phone,Qualcomm SM7250,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
+Oppo,CPH2009,OP4C2DL1,11397MB,Phone,Qualcomm SM7250,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Oppo,Reno Ace,OP4A89,7497-7501MB,Phone,Qualcomm SM8150,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,Reno Z,OP48A1,7625-7640MB,Phone,Mediatek MT6779p90,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,Reno Z,OP48A1L1,3599-3614MB,Phone,Mediatek MT6779p90,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
@@ -166,7 +172,7 @@ Oppo,Find X2 Pro,OP4BA2L1,11526MB,Phone,Qualcomm SM8250,1440x3168,560,arm64-v8a;
 Oppo,Find X2,OP4BA1L1,11526MB,Phone,Qualcomm SM8250,1440x3168,560,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Oppo,Reno3 Pro,OP4C5FL1,7625MB,Phone,Mediatek MT6779p95,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Oppo,Reno 2 中国版,OP4A57,7563-7577MB,Phone,Qualcomm SM7150,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Oppo,realme 5,RMX1911,3641-3653MB,Phone,Qualcomm SM6125,720x1600,320,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Oppo,realme 5,RMX1911,2654-3641MB,Phone,Qualcomm SM6125,720x1600,320,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,Reno A,OP47CFL1,5623MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28,3.2
 Oppo,Reno Z 中国版,OP4699,5609-5624MB,Phone,Mediatek MT6779p90,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,Reno 10倍变焦版,OP46C3,5530-5535MB,Phone,Qualcomm SM8150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
@@ -174,13 +180,13 @@ Oppo,R17 Pro,CPH1877,5619-7625MB,Phone,Qualcomm SDM710,1080x1920;1080x2340,480,a
 Oppo,R17 Pro,PBDM00,7623-7626MB,Phone,Qualcomm SDM710,1080x1920;1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 Oppo,R17 Pro,PBDT00,7623-7626MB,Phone,Qualcomm SDM710,1080x1920;1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 Oppo,Reno3 Pro 5G中国版,OP4A9D,7411MB,Phone,Qualcomm SM7250,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
-Oppo,Reno,OP47DD,5622-7625MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Oppo,Reno,OP47DD,5621-7626MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,Reno,OP47DDL1,5621-5622MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,Reno3,OP4B9EL1,7625MB,Phone,Mediatek MT6779p90,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Oppo,K5,OP4AA7,5564-7561MB,Phone,Qualcomm SM7150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,Reno2 Z,OP4B65L1,7614-7625MB,Phone,Mediatek MT6779p90,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,F11 Pro,OP4863,5674-5696MB,Phone,Mediatek MT6771,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Oppo,K3,OP4679,5621-7626MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Oppo,K3,OP4679,5622-7625MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Oppo,K3,OP486B,5621-5622MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 POCO,POCO F2 Pro,lmi,5644MB,Phone,Qualcomm SM8250,1080x2400,440,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 POCO,POCO X2,phoenixin,5557MB,Phone,Qualcomm SM7150,1080x2400,440,arm64-v8a;armeabi-v7a;armeabi,29,3.2
@@ -190,15 +196,15 @@ Realme,realme 3Pro,RMX1851,3658MB,Phone,Qualcomm SDM710,1080x2340,480,arm64-v8a;
 Realme,realme XT,RMX1921L1,7620MB,Phone,Qualcomm SDM712,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Realme,realme XT,RMX1921,3618MB,Phone,Qualcomm SDM712,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Realme,realme X2Pro,RMX1931L1,7498-7501MB,Phone,Qualcomm SM8150,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Realme,realme X2Pro,RMX1931CN,7498-7501MB,Phone,Qualcomm SM8150,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Realme,realme X2Pro,RMX1931CN,5499-5502MB,Phone,Qualcomm SM8150,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Realme,realme 6,RMX2001L1,3689MB,Phone,Mediatek MT6785T,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Realme,realme 6,RMX2003L1,7715MB,Phone,Mediatek MT6785T,1080x2400,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Realme,realme X2,RMX1993L1,7597-7611MB,Phone,Qualcomm SM7150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Realme,realme X2,RMX1991CN,5598-5612MB,Phone,Qualcomm SM7150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Realme,realme X2,RMX1992L1,5612-7597MB,Phone,Qualcomm SM7150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Realme,realme Q,RMX1971CN,3657-5656MB,Phone,Qualcomm SDM712,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Realme,realme X2,RMX1992L1,3619-5598MB,Phone,Qualcomm SM7150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Realme,realme Q,RMX1971CN,3657-3658MB,Phone,Qualcomm SDM712,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Realme,realme 5,RMX1911L1,3641-3653MB,Phone,Qualcomm SM6125,720x1600,320,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Realme,realme 5,RMX1927,2654-3641MB,Phone,Qualcomm SM6125,720x1600,320,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Realme,realme 5,RMX1927,2654-3627MB,Phone,Qualcomm SM6125,720x1600,320,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Realme,realme 5,RMX1915,3652MB,Phone,Qualcomm SM6125,720x1600,320,arm64-v8a;armeabi-v7a;armeabi,28,3.2
 Realme,realme 5,RMX1919,2642-2654MB,Phone,Qualcomm SM6125,720x1600,320,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Realme,realme 5,RMX1925,3641-3653MB,Phone,Qualcomm SM6125,720x1600,320,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
@@ -206,30 +212,30 @@ Realme,realme 5pro,RMX1973,7659-7660MB,Phone,Qualcomm SDM712,1080x2340,480,arm64
 Realme,realme 5pro,RMX1971,3657-3658MB,Phone,Qualcomm SDM712,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Realme,realme 5Pro,RMX1971L1,3657-3658MB,Phone,Qualcomm SDM712,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Redmi,Redmi Note 8T,willow,3644MB,Phone,Qualcomm SM6125,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28,3.2
-Redmi,Redmi K20,davinciin,5557-5600MB,Phone,Qualcomm SM7150,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Redmi,Redmi K20,davinci,5557-5600MB,Phone,Qualcomm SM7150,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Redmi,Redmi K20,davinciin,5557-5600MB,Phone,Qualcomm SM7150,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Redmi,Redmi Note 8 pro,begoniain,5498-5676MB,Phone,Mediatek MT6785T,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Redmi,Redmi Note 8 Pro,begonia,5498-5676MB,Phone,Mediatek MT6785T,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Redmi,Redmi Note 8,ginkgo,3644MB,Phone,Qualcomm SM6125,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28,3.2
 Redmi,K30 PRO,lmi,7643MB,Phone,Qualcomm SM8250,1080x2400,440,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Redmi,Redmi K30,phoenix,7556MB,Phone,Qualcomm SM7150,1080x2400,440,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Redmi,Redmi  Note  7,lavender,3734-3736MB,Phone,Qualcomm SDM660,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Redmi,Mi  9T  Pro,raphaelin,5503-5523MB,Phone,Qualcomm SDM855,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Redmi,Redmi K20 Pro,raphael,5504-5523MB,Phone,Qualcomm SDM855,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Redmi,Mi  9T  Pro,raphaelin,5503-5523MB,Phone,Qualcomm SDM855,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy S8,dreamlteks,3452-3679MB,Phone,Samsung Exynos 8895,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy S8,dreamqltecmcc,3347-3363MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy S8,dreamqltechn,3347-3371MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
-Samsung,Galaxy S8,SC-02J,3346-3361MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
+Samsung,Galaxy S8,SC-02J,3346-3362MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy S8,dreamqltecan,3347-3371MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy S8,dreamqltesq,3347-3371MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
-Samsung,Galaxy S8,dreamqlteue,3347-3371MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
+Samsung,Galaxy S8,dreamqlteue,3347-3363MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy S8,dreamlte,3452-3679MB,Phone,Samsung Exynos 8895,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy S8,SCV36,3346-3362MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy TabS3,gts3lltechn,3414-3719MB,Tablet,Qualcomm MSM8996,1536x2048;2048x1536,320,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy Tab S3,gts3llte,3414-3719MB,Tablet,Qualcomm MSM8996,1536x2048,320,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy Tab S3,gts3lltekx,3414-3719MB,Tablet,Qualcomm MSM8996,1536x2048;2048x1536,320,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy Tab S3,gts3lwifichn,3414-3719MB,Tablet,Qualcomm APQ8096,1536x2048,320,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
-Samsung,Galaxy Tab S3,gts3lltevzw,3414-3719MB,Tablet,Qualcomm MSM8996,1536x2048;2048x1536,320,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
+Samsung,Galaxy Tab S3,gts3lltevzw,3391-3718MB,Tablet,Qualcomm MSM8996,1536x2048;2048x1536,320,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy Tab S3,gts3lwifi,3414-3719MB,Tablet,Qualcomm APQ8096,1536x2048,320,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy Tab S3,gts3llteusc,3414-3719MB,Tablet,Qualcomm MSM8996,1536x2048,320,arm64-v8a;armeabi-v7a;armeabi,24;26;28,3.2
 Samsung,Galaxy J5,j5nlte,1383-1388MB,Phone,Qualcomm MSM8916,720x1280,320,armeabi-v7a;armeabi,22;23,3.0
@@ -243,7 +249,7 @@ Samsung,Galaxy J5,j5ylte,1383-1388MB,Phone,Qualcomm MSM8916,720x1280,320,armeabi
 Samsung,Galaxy J5,j5ltechn,1388MB,Phone,Qualcomm MSM8916,720x1280,320,armeabi-v7a;armeabi,22,3.0
 Samsung,Galaxy J5,j53g,1390-1395MB,Phone,Qualcomm MSM8216,720x1280,320,armeabi-v7a;armeabi,22;23,3.0
 Samsung,Galaxy Note8,SCV37,5214-5228MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,25;26;28,3.2
-Samsung,Galaxy Note8,greatqlteue,5214-5229MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,25;26;28,3.2
+Samsung,Galaxy Note8,greatqlteue,5214-5237MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,25;26;28,3.2
 Samsung,Galaxy Note8,greatqlte,5214-5229MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,25;26;28,3.2
 Samsung,Galaxy Note8,greatlteks,5339-5346MB,Phone,Samsung Exynos 8895,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,25;26;28,3.2
 Samsung,Galaxy Note8,greatqltecmcc,5214-5229MB,Phone,Qualcomm MSM8998,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,25;26;28,3.2
@@ -262,7 +268,7 @@ Samsung,Galaxy A5(2017),a5y17ltecan,2804-2815MB,Phone,Samsung Exynos 7880,1080x1
 Samsung,Galaxy A5(2017),a5y17ltelgt,2804-2815MB,Phone,Samsung Exynos 7880,1080x1920,480,arm64-v8a;armeabi-v7a;armeabi,23;24;26,3.1;3.2
 Samsung,Galaxy A5(2017),a5y17ltektt,2804-2815MB,Phone,Samsung Exynos 7880,1080x1920,480,arm64-v8a;armeabi-v7a;armeabi,23;24;26,3.1;3.2
 Samsung,Galaxy A5(2017),a5y17lteskt,2804-2815MB,Phone,Samsung Exynos 7880,1080x1920,480,arm64-v8a;armeabi-v7a;armeabi,23;24;26,3.1;3.2
-Samsung,Galaxy Tab S6 Lite,gta4xl,3552MB,Tablet,Samsung Exynos 9611,2000x1200,240,arm64-v8a;armeabi-v7a;armeabi,29,3.2
+Samsung,Galaxy Tab S6 Lite,gta4xl,3552MB,Tablet,Samsung Exynos 9611,1200x2000,240,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Samsung,Galaxy Tab S6 Lite,gta4xlwifi,3690MB,Tablet,Samsung Exynos 9611,1200x2000,240,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Samsung,Galaxy M31,m31,5555MB,Phone,Samsung Exynos 9611,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Samsung,Galaxy S10,beyond1q,7469-7477MB,Phone,Qualcomm SM8150,1080x2280,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
@@ -293,7 +299,7 @@ Samsung,Galaxy Tab Active Pro,gtactivexl,3650MB,Tablet,Qualcomm SDM670,1200x1920
 Samsung,Galaxy Note10,d1q,7468MB,Phone,Qualcomm SM8150,1080x2280,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy Note10,d1,7397MB,Phone,Samsung Exynos 9825,1080x2280,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy-A60,a60q,5514-5533MB,Phone,Qualcomm SM6150,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Samsung,Galaxy S7 Edge,hero2qltecctvzw,3301-3721MB,Phone,Qualcomm MSM8996,1440x2560,640,arm64-v8a;armeabi-v7a;armeabi,23;24;26,3.1;3.2
+Samsung,Galaxy S7 Edge,hero2qltecctvzw,3416-3721MB,Phone,Qualcomm MSM8996,1440x2560,640,arm64-v8a;armeabi-v7a;armeabi,23;24;26,3.1;3.2
 Samsung,Galaxy S7 edge,hero2lte,3533-3562MB,Phone,Samsung Exynos 8890,1080x1920;1440x2560,480;640,arm64-v8a;armeabi-v7a;armeabi,23;24;26,3.1;3.2
 Samsung,Galaxy S7 Edge,hero2lteskt,3533-3562MB,Phone,Samsung Exynos 8890,1080x1920;1440x2560,480;640,arm64-v8a;armeabi-v7a;armeabi,23;24;26,3.1;3.2
 Samsung,Galaxy S7 Edge,SCV33,3392-3420MB,Phone,Qualcomm MSM8996,1080x1920;1440x2560,480;640,arm64-v8a;armeabi-v7a;armeabi,23;24;26,3.1;3.2
@@ -311,7 +317,7 @@ Samsung,Galaxy S7 Edge,hero2qlteusc,3416-3721MB,Phone,Qualcomm MSM8996,1440x2560
 Samsung,Galaxy S20+,y2s,7384MB,Phone,Samsung Exynos 990,1080x2400,450,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Samsung,Galaxy A30,a30,3724MB,Phone,Samsung Exynos 7904,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy A30,SCV43,3724MB,Phone,Samsung Exynos 7904,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Samsung,Galaxy A30,SCV43-j,3724-3728MB,Phone,Samsung Exynos 7904,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Samsung,Galaxy A30,SCV43-j,3724MB,Phone,Samsung Exynos 7904,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy A30,SCV43-u,3724-3728MB,Phone,Samsung Exynos 7904,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy A3(2017),a3y17lte,1817-1820MB,Phone,Samsung Exynos 7870,720x1280,320,armeabi-v7a;armeabi,23;24;26,3.1;3.2
 Samsung,Galaxy A71,a71,7499MB,Phone,Qualcomm SM7150,1080x2400,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
@@ -319,7 +325,7 @@ Samsung,Galaxy Note10+ 5G,d2x,11271MB,Phone,Samsung Exynos 9825,1080x2280,420,ar
 Samsung,Galaxy Note10+ 5G,d2xq2,11556MB,Phone,Qualcomm SM8150P,1080x2280,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Samsung,Galaxy Note10+ 5G,d2xq,11370MB,Phone,Qualcomm SM8150,1080x2280,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy A6,a6elteatt,2678-2718MB,Phone,Samsung Exynos 7884,720x1480;720x720,320,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
-Samsung,Galaxy A6,a6eltemtr,2678-2719MB,Phone,Samsung Exynos 7884,720x1339;720x1480,320,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
+Samsung,Galaxy A6,a6eltemtr,2678-2718MB,Phone,Samsung Exynos 7884,720x1339;720x1480,320,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
 Samsung,Galaxy A6,a6elteaio,2678-2718MB,Phone,Samsung Exynos 7884,720x1339;720x1480,320,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
 Samsung,Galaxy A6,a6lteks,2811-2812MB,Phone,Samsung Exynos 7870,720x1339;720x1480,320,armeabi-v7a;armeabi,26;28;29,3.2
 Samsung,Galaxy A6,a6elteue,2678-2718MB,Phone,Samsung Exynos 7884,720x1339;720x1480,320,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
@@ -342,34 +348,34 @@ Samsung,Galaxy S9+,star2qltesq,5009-5579MB,Phone,Qualcomm SDM845,1080x2009;1080x
 Samsung,Galaxy S9+,SCV39,5009-5579MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
 Samsung,Galaxy S9+,star2qltechn,5008-5579MB,Phone,Qualcomm SDM845,1080x2220;2009x1080,420,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
 Samsung,Galaxy S9+,SC-03K,5009-5579MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
-Samsung,Galaxy S9+,star2qlteue,5008-5579MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
+Samsung,Galaxy S9+,star2qlteue,5009-5579MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
 Samsung,Galaxy S20+ 5G,y2q,10546MB,Phone,Qualcomm SM8250,1080x2400,450,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Samsung,Galaxy S20+ 5G,SCG02,10546MB,Phone,Qualcomm SM8250,1080x2400,450,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Samsung,Galaxy S20+ 5G,SC-52A,10546MB,Phone,Qualcomm SM8250,1080x2400,450,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Samsung,Galaxy Note9,SC-01L,5576-5580MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
-Samsung,Galaxy Note9,crownqltechn,5576-5581MB,Phone,Qualcomm SDM845,1080x2009;1080x2220;2220x1080,420,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
+Samsung,Galaxy Note9,crownqltechn,5576-5581MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 Samsung,Galaxy Note9,crownlteks,5615-5622MB,Phone,Samsung Exynos 9810,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 Samsung,Galaxy Note9,crownqltecs,5576-5580MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 Samsung,Galaxy Note9,crownlte,5616-5623MB,Phone,Samsung Exynos 9810,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 Samsung,Galaxy Note9,SCV40,5576-5580MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
-Samsung,Galaxy Note9,crownqltesq,5576-5581MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
+Samsung,Galaxy Note9,crownqltesq,5576-5580MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 Samsung,Galaxy Note9,crownqlteue,5576-5580MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
-Samsung,Galaxy A71 5G,a71xq,5423MB,Phone,Qualcomm SM7250,1080x2400,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
-Samsung,Galaxy A70s,a70s,5514-7522MB,Phone,Qualcomm SM6150,1080x2400,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Samsung,Galaxy Tab S4,gts4lltespr,3313-3590MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
+Samsung,Galaxy A71 5G,a71xq,5424MB,Phone,Qualcomm SM7250,1080x2400,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
+Samsung,Galaxy A70s,a70s,7509-7522MB,Phone,Qualcomm SM6150,1080x2400,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Samsung,Galaxy Tab S4,gts4lltespr,3249-3590MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
 Samsung,Galaxy Tab S4,gts4llteatt,3321-3590MB,Tablet,Qualcomm MSM8998,1600x2560;2560x1600,360,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
 Samsung,Galaxy Tab S4,gts4lwifi,3313-3590MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
-Samsung,Galaxy Tab S4,gts4llte,3131-3589MB,Tablet,Qualcomm MSM8998,1600x2560;2560x1600,320;360,arm64-v8a;armeabi-v7a;armeabi,26;27;28,3.2
-Samsung,Galaxy Tab S4,gts4lwifichn,3321-3589MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
-Samsung,Galaxy Tab S4,gts4lltechn,3313-3589MB,Tablet,Qualcomm MSM8998,1600x2560;2560x1600,360,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
+Samsung,Galaxy Tab S4,gts4llte,3131-3589MB,Tablet,Qualcomm MSM8998,1600x2560;2560x1600,320;360,arm64-v8a;armeabi-v7a;armeabi,26;27;28;29,3.2
+Samsung,Galaxy Tab S4,gts4lwifichn,3313-3589MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
+Samsung,Galaxy Tab S4,gts4lltechn,3321-3589MB,Tablet,Qualcomm MSM8998,1600x2560;2560x1600,360,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
 Samsung,Galaxy Tab S4,gts4llteusc,3321-3590MB,Tablet,Qualcomm MSM8998,1600x2560;2560x1600,360,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
 Samsung,Galaxy Tab S4,gts4lltetmo,3321-3589MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
 Samsung,Galaxy Tab S4,gts4lltekx,5311-5587MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
-Samsung,Galaxy Tab S4,gts4lltevzw,3321-3589MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
+Samsung,Galaxy Tab S4,gts4lltevzw,3321-3589MB,Tablet,Qualcomm MSM8998,1600x2560;2560x1600,360,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
 Samsung,Galaxy A Quantum,a71x,7314MB,Phone,Samsung Exynos 980,1080x2400,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Samsung,Galaxy S9,SC-02K,3271-3581MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
 Samsung,Galaxy S9,starqltechn,3270-3581MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
-Samsung,Galaxy S9,starqltecs,3270-3581MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
+Samsung,Galaxy S9,starqltecs,3271-3581MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
 Samsung,Galaxy S9,SCV38,3271-3581MB,Phone,Qualcomm SDM845,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
 Samsung,Galaxy S9,starlteks,3396-3611MB,Phone,Samsung Exynos 9810,1080x2009;1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
 Samsung,Galaxy S9,starqltecmcc,3270-3581MB,Phone,Qualcomm SDM845,1080x2009;1080x2220;2220x1080,480,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
@@ -397,12 +403,12 @@ Samsung,Galaxy S7 ,herolte,3533-3562MB,Phone,Samsung Exynos 8890,1080x1920;1440x
 Samsung,Galaxy A90 5G,r3q,5375MB,Phone,Qualcomm SM8150,1080x2400,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy J5 Pro,j5y17ltextc,2823-2826MB,Phone,Samsung Exynos 7870,720x1280,320,armeabi-v7a;armeabi,24;27;28,3.2
 Samsung,Galaxy J5 Pro,j5y17ltedx,2823-2826MB,Phone,Samsung Exynos 7870,720x1280,320,armeabi-v7a;armeabi,24;27;28,3.2
-Samsung,Galaxy S10 5G,beyondxq,7387-7393MB,Phone,Qualcomm SM8150,1080x2280;2280x1080,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Samsung,Galaxy S10 5G,beyondxq,7387-7393MB,Phone,Qualcomm SM8150,1080x2280,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy S10 5G,beyondx,7272-7277MB,Phone,Samsung Exynos 9820,1080x2280,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy A80,r1q,7499-7534MB,Phone,Qualcomm SM7150,1080x2400,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,三星W20,zodiac,11369MB,Phone,Qualcomm SM8150P,1536x2152,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy Tab S6,gts6l,5450-5452MB,Tablet,Qualcomm SM8150,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Samsung,Galaxy Tab S6,gts6lwifi,5450-5452MB,Tablet,Qualcomm SM8150,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Samsung,Galaxy Tab S6,gts6lwifi,5452-7445MB,Tablet,Qualcomm SM8150,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy S10 Lite,r5q,7447MB,Phone,Qualcomm SM8150,1080x2400,420,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Samsung,Galaxy Z Flip,bloomq,7462MB,Phone,Qualcomm SM8150P,1080x2636,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Samsung,Galaxy Z Flip,SCV47,7462MB,Phone,Qualcomm SM8150,1080x2636,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
@@ -433,8 +439,8 @@ Samsung,Galaxy A50s,a50s,3586MB,Phone,Samsung Exynos 9611,1080x2340,420,arm64-v8
 Samsung,Galaxy A50,a50,3585-3590MB,Phone,Samsung Exynos 9610,1080x2340,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy A70,a70q,5514-5527MB,Phone,Qualcomm SM6150,1080x2400,420,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy Tab S5e,gts4lv,3650-3651MB,Tablet,Qualcomm SDM670,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Samsung,Galaxy Tab S5e,gts4lvwifi,3651-5652MB,Tablet,Qualcomm SDM670,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Samsung,Galaxy Tab S5e,gts4lvwifichn,3651MB,Tablet,Qualcomm SDM670,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,28,3.2
+Samsung,Galaxy Tab S5e,gts4lvwifi,3651-3654MB,Tablet,Qualcomm SDM670,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Samsung,Galaxy Tab S5e,gts4lvwifichn,3651-5648MB,Tablet,Qualcomm SDM670,1600x2560,360,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Samsung,Galaxy A7,a7ltectc,1871-1891MB,Phone,Qualcomm MSM8939,1080x1920,480,armeabi-v7a;armeabi,19;21;23,3.0
 Samsung,Galaxy A7,a7ltechn,1889-1892MB,Phone,Qualcomm MSM8939,1080x1920,480,armeabi-v7a;armeabi,19;21;23,3.0
 Samsung,Galaxy A7,a7y18ve,3754MB,Phone,Samsung Exynos 7885,1080x2220,420,arm64-v8a;armeabi-v7a;armeabi,28,3.2
@@ -446,9 +452,9 @@ Samsung,Galaxy A7,a73g,1889-1891MB,Phone,Qualcomm MSM8239,1080x1920,480,armeabi-
 Samsung,Galaxy A7,a7alte,1862-1880MB,Phone,Samsung Exynos 5430,1080x1920,480,armeabi-v7a;armeabi,19;21;23,3.0
 Sharp,AQUOS sense3 SH-M12,SH-M12,3744-3745MB,Phone,Qualcomm SDM630,1080x2160,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Sharp,AQUOS sense3 plus SH-M11,SH-M11,5726-5727MB,Phone,Qualcomm SDM636,1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Sharp,AQUOS sense3 plus (901SH),SG901SH,5726-5727MB,Phone,Qualcomm SDM636,1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Sharp,AQUOS sense3 plus (901SH),SG901SH,5727MB,Phone,Qualcomm SDM636,1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Sharp,AQUOS zero2 SH-M13,SH-M13,7528MB,Phone,Qualcomm SM8150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
-Sharp,AQUOS sense3 plus SH-RM11,SH-RM11,5727MB,Phone,Qualcomm SDM636,1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Sharp,AQUOS sense3 plus SH-RM11,SH-RM11,5726-5727MB,Phone,Qualcomm SDM636,1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Sharp,X4,vespa_sprout,2737-2743MB,Phone,Qualcomm SDM630,1080x2160,480,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 Sharp,AQUOS zero2 SH-Z20,SH-Z20,7528MB,Phone,Qualcomm SM8150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Sharp,AQUOS sense3,PCZ-u,3744-3745MB,Phone,Qualcomm SDM630,1080x2160,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
@@ -458,9 +464,9 @@ Sharp,AQUOS R3 SHV44,NAX,5513-5516MB,Phone,Qualcomm SM8150,1440x3120,640,arm64-v
 Sharp,AQUOS R3 SH-04L,SH-04L,5513-5516MB,Phone,Qualcomm SM8150,1440x3120,640,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Sharp,AQUOS R3 808SH,SG808SH,5513-5516MB,Phone,Qualcomm SM8150,1440x3120,640,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Sharp,AQUOS sense3 plus　サウンド SHV46,OBY,5726-5727MB,Phone,Qualcomm SDM636,1080x2220,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Sharp,AQUOS sense3 SHV45,PCZ,3743-3745MB,Phone,Qualcomm SDM630,1080x2160,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Sharp,AQUOS sense3 SHV45,PCZ,3744-3745MB,Phone,Qualcomm SDM630,1080x2160,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Sharp,AQUOS zero2 SH-01M,SH-01M,7528MB,Phone,Qualcomm SM8150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
-Sharp,AQUOS sense3 SH-02M,SH-02M,3743-3745MB,Phone,Qualcomm SDM630,1080x2160,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Sharp,AQUOS sense3 SH-02M,SH-02M,3744-3745MB,Phone,Qualcomm SDM630,1080x2160,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Sharp,AQUOS zero2 SHV47,QDA,7528MB,Phone,Qualcomm SM8150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Sharp,AQUOS R3 SH-R10A,SH-R10,5513-5516MB,Phone,Qualcomm SM8150,1440x3120,640,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Sharp,AQUOS zero2 906SH,SG906SH,7528MB,Phone,Qualcomm SM8150,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,29,3.2
@@ -526,16 +532,20 @@ Wiko,View3 Pro,W-P611,5777MB,Phone,Mediatek MT6771,1080x2340,420,arm64-v8a;armea
 Xiaomi,MIX 2S,polaris,5631-5637MB,Phone,Qualcomm SDM845,1080x2160,440;480,arm64-v8a;armeabi-v7a;armeabi,26;28;29,3.2
 Xiaomi,Mi 10 lite 5G,monet,5427MB,Phone,Qualcomm SM7250,1080x2400,440,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Xiaomi,MI 8 SE,sirius,5679-5680MB,Phone,Qualcomm SDM710,1080x2244,440;480,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
+Xiaomi,Redmi K30 Pro Zoom Edition,lmipro,7643MB,Phone,Qualcomm SM8250,1080x2400,440,arm64-v8a;armeabi-v7a;armeabi,29,3.2
+Xiaomi,Mi 10 Lite zoom,vangogh,7426MB,Phone,Qualcomm SM7250,1080x2400,440,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Xiaomi,MIX 3,perseus,5629-5631MB,Phone,Qualcomm SDM845,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Xiaomi,MI 8,dipper,5629-5635MB,Phone,Qualcomm SDM845,1080x2248,440;480,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
 Xiaomi,Mi 10,umi,7643MB,Phone,Qualcomm SM8250,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Xiaomi,Mi 9 SE,grus,5616-5618MB,Phone,Qualcomm SDM712,1080x2340,480,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Xiaomi,K30 PRO,lmiinpro,7645MB,Phone,Qualcomm SM8250,1080x2400,440,arm64-v8a;armeabi-v7a;armeabi,29,3.2
+Xiaomi,K30 pro,lmiin,5644MB,Phone,Qualcomm SM8250,1080x2400,440,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Xiaomi,POCO F1,beryllium,5631-5637MB,Phone,Qualcomm SDM845,1080x2246,440;480,arm64-v8a;armeabi-v7a;armeabi,27;28;29,3.2
-Xiaomi,Redmi  Note  7 Pro,violet,3664-5618MB,Phone,Qualcomm SDM675,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
-Xiaomi,Mi 10 Pro,cmi,11629MB,Phone,Qualcomm SM8250,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,29,3.2
+Xiaomi,Redmi  Note  7 Pro,violet,3625-3664MB,Phone,Qualcomm SDM675,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
+Xiaomi,Mi 10 Pro,cmi,7623MB,Phone,Qualcomm SM8250,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,29,3.2
 Xiaomi,MI 9,cepheus,5504-5523MB,Phone,Qualcomm SDM855,1080x2340,440,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Xiaomi,Mi A3,laurel_sprout,3608-3611MB,Phone,Qualcomm SM6125,720x1560,320,arm64-v8a;armeabi-v7a;armeabi,28;29,3.2
 Zebra,TC72,TC72,3736-3742MB,Phone,Qualcomm SDM660,720x1280,320,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
-Zebra,TC77,TC77,3733MB,Phone,Qualcomm SDM660,720x1280,320,arm64-v8a;armeabi-v7a;armeabi,27,3.2
+Zebra,TC77,TC77,3736MB,Phone,Qualcomm SDM660,720x1280,320,arm64-v8a;armeabi-v7a;armeabi,27,3.2
 Zebra,TC52,TC52,3736-3742MB,Phone,Qualcomm SDM660,720x1280,320,arm64-v8a;armeabi-v7a;armeabi,27;28,3.2
 Zebra,TC57,TC57,3733MB,Phone,Qualcomm SDM660,720x1280,320,arm64-v8a;armeabi-v7a;armeabi,27,3.2
