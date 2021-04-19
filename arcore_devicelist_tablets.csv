@@ -4,35 +4,35 @@ LGE,G Pad 5 10.1 FHD,tf10w,3701MB,Tablet,Qualcomm MSM8996Pro,1200x1920,240,arm64
 Lenovo,Lenovo Tab P11 Pro,J706F,5612MB,Tablet,Qualcomm SDM712,2560x1600,320,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Lenovo,Lenovo Tab P11 Pro,J706L,5612MB,Tablet,Qualcomm SDM712,1600x2560;2560x1600,320,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Samsung,Galaxy Tab A7,gta4l,2688-2705MB,Tablet,Qualcomm SM6115,1200x2000;2000x1200,240,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
-Samsung,Galaxy Tab A7,gta4lwifi,2705MB,Tablet,Qualcomm SM6115,1200x2000;2000x1200,240,arm64-v8a;armeabi;armeabi-v7a,29,3.2
+Samsung,Galaxy Tab A7,gta4lwifi,2688-2705MB,Tablet,Qualcomm SM6115,1200x2000;2000x1200,240,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 Samsung,Galaxy Tab S6 Lite,gta4xl,3574-3575MB,Tablet,Samsung Exynos 9611,1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 Samsung,Galaxy Tab S6 Lite,gta4xlwifi,3690-3713MB,Tablet,Samsung Exynos 9611,1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 Samsung,Galaxy Tab Active3,gtactive3,3552-3601MB,Tablet,Samsung Exynos 9810,1200x1920;1920x1200,320,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
-Samsung,Galaxy Tab Active3,gtactive3wifi,3601MB,Tablet,Samsung Exynos 9810,1200x1920;1920x1200,320,arm64-v8a;armeabi;armeabi-v7a,29,3.2
+Samsung,Galaxy Tab Active3,gtactive3wifi,3552-3601MB,Tablet,Samsung Exynos 9810,1200x1920;1920x1200,320,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 Samsung,Galaxy Tab Active Pro,gtactivexl,3644-3650MB,Tablet,Qualcomm SDM670,1200x1920;1920x1200,240,arm64-v8a;armeabi;armeabi-v7a,28;29,3.2
 Samsung,Galaxy Tab Active Pro,gtactivexlwifi,3644-3650MB,Tablet,Qualcomm SDM670,1200x1920,240,arm64-v8a;armeabi;armeabi-v7a,28;29,3.2
 Samsung,Galaxy TabS3,gts3llte,3391-3719MB,Tablet,Qualcomm MSM8996,1536x2048;2048x1536,320,arm64-v8a;armeabi;armeabi-v7a,24;26;28,3.2
-Samsung,Galaxy TabS3,gts3lltechn,3391-3718MB,Tablet,Qualcomm MSM8996,1536x2048;2048x1536,320,arm64-v8a;armeabi;armeabi-v7a,24;26;28,3.2
+Samsung,Galaxy TabS3,gts3lltechn,3414-3719MB,Tablet,Qualcomm MSM8996,1536x2048;2048x1536,320,arm64-v8a;armeabi;armeabi-v7a,24;26;28,3.2
 Samsung,Galaxy Tab S3,gts3lltekx,3414-3719MB,Tablet,Qualcomm MSM8996,1536x2048;2048x1536,320,arm64-v8a;armeabi;armeabi-v7a,24;26;28,3.2
 Samsung,Galaxy Tab S3,gts3llteusc,3414-3719MB,Tablet,Qualcomm MSM8996,1536x2048,320,arm64-v8a;armeabi;armeabi-v7a,24;26;28,3.2
 Samsung,Galaxy Tab S3,gts3lltevzw,3414-3719MB,Tablet,Qualcomm MSM8996,1536x2048;2048x1536,320,arm64-v8a;armeabi;armeabi-v7a,24;26;28,3.2
 Samsung,Galaxy Tab S3,gts3lwifi,3414-3719MB,Tablet,Qualcomm APQ8096,1536x2048,320,arm64-v8a;armeabi;armeabi-v7a,24;26;28,3.2
-Samsung,Galaxy Tab S3,gts3lwifichn,3378-3718MB,Tablet,Qualcomm APQ8096,1536x2048,320,arm64-v8a;armeabi;armeabi-v7a,24;26;28,3.2
-Samsung,Galaxy Tab S4,gts4llte,3131-3590MB,Tablet,Qualcomm MSM8998,1600x2560;2560x1600,320;360,arm64-v8a;armeabi;armeabi-v7a,26;27;28;29,3.2
+Samsung,Galaxy Tab S3,gts3lwifichn,3378-3719MB,Tablet,Qualcomm APQ8096,1536x2048,320,arm64-v8a;armeabi;armeabi-v7a,24;26;28,3.2
+Samsung,Galaxy Tab S4,gts4llte,3313-3590MB,Tablet,Qualcomm MSM8998,1600x2560;2560x1600,360,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
 Samsung,Galaxy Tab S4,gts4llteatt,3321-3590MB,Tablet,Qualcomm MSM8998,1600x2560;2560x1600,360,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
 Samsung,Galaxy Tab S4,gts4lltechn,3313-3589MB,Tablet,Qualcomm MSM8998,1600x2560;2560x1600,360,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
 Samsung,Galaxy Tab S4,gts4lltekx,5311-5587MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
-Samsung,Galaxy Tab S4,gts4lltespr,3313-3590MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
+Samsung,Galaxy Tab S4,gts4lltespr,3321-3590MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
 Samsung,Galaxy Tab S4,gts4lltetmo,3321-3589MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
 Samsung,Galaxy Tab S4,gts4llteusc,3321-3590MB,Tablet,Qualcomm MSM8998,1600x2560;2560x1600,360,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
 Samsung,Galaxy Tab S4,gts4lltevzw,3249-3589MB,Tablet,Qualcomm MSM8998,1600x2560;2560x1600,320;360,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
-Samsung,Galaxy Tab S5e,gts4lv,3608-5649MB,Tablet,Qualcomm SDM670,1600x2560;2560x1600,360,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
+Samsung,Galaxy Tab S5e,gts4lv,3643-5649MB,Tablet,Qualcomm SDM670,1600x2560;2560x1600,360,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 Samsung,Galaxy Tab S5e,gts4lvwifi,3643-3651MB,Tablet,Qualcomm SDM670,1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
-Samsung,Galaxy Tab S5e,gts4lvwifichn,5642-5649MB,Tablet,Qualcomm SDM670,1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,28;29,3.2
+Samsung,Galaxy Tab S5e,gts4lvwifichn,3651-5642MB,Tablet,Qualcomm SDM670,1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 Samsung,Galaxy Tab S4,gts4lwifi,3313-3590MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
-Samsung,Galaxy Tab S4,gts4lwifichn,3313-3589MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
+Samsung,Galaxy Tab S4,gts4lwifichn,3321-3589MB,Tablet,Qualcomm MSM8998,1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
 Samsung,Galaxy Tab S6,gts6l,5450-7445MB,Tablet,Qualcomm SM8150,1600x2560;2560x1600,360,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
-Samsung,Galaxy Tab S6,gts6lwifi,5450-7445MB,Tablet,Qualcomm SM8150,1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
+Samsung,Galaxy Tab S6,gts6lwifi,5450-7447MB,Tablet,Qualcomm SM8150,1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 Samsung,Galaxy Tab S6 5G,gts6x,5374MB,Tablet,Qualcomm SM8150,1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 Samsung,Galaxy Tab S7,gts7l,5586-5595MB,Tablet,Qualcomm SM8250Pro,1600x2560;2560x1600,340,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 Samsung,Galaxy Tab S7,gts7lwifi,5586-7590MB,Tablet,Qualcomm SM8250Pro,1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
