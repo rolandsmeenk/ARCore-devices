@@ -19,7 +19,7 @@ Coolpad,apollo,Coolpad,Coolpad 3706AS,2767MB,Phone,Qualcomm SM6125,Qualcomm Adre
 FCNT,A101FC,FCNT,arrows We A101FC,3634MB,Phone,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),720x1520,320,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 FCNT,F51B,FCNT,arrows We F-51B,3634MB,Phone,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),720x1520,320,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 FCNT,FCG01,FCNT,arrows We FCG01,3634MB,Phone,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),720x1520,320,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-DOCOMO,F51A,Fujitsu,F-51A,8066MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1440x3120,560,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+DOCOMO,F51A,Fujitsu,F-51A,8066MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1440x3120,560,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 DOCOMO,F52A,Fujitsu,arrows NX9 F-52A,7849MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2280,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 GM,GM9PLUS_s,General Mobile,GM 9 Plus,2884MB,Phone,Mediatek MT6771,3x ARM Mali G72 (800 MHz),1080x2280,480,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 google,barbet,Google,Pixel 5a 5G,5727MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,30;32;33,3.2
@@ -27,12 +27,14 @@ google,bluejay,Google,Pixel 6a,5841MB,Phone,Google Tensor,ARM Mali G78 (848 MHz)
 google,blueline,Google,Pixel 3,3753MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1080x2160,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 google,bonito,Google,Pixel 3a XL,3766MB,Phone,Qualcomm SDM670,Qualcomm Adreno 615 (420 MHz),1080x2160,400,arm64-v8a;armeabi;armeabi-v7a,32,3.2
 google,bramble,Google,Pixel 4a (5G),5727MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,30;32;33,3.2
+google,cheetah,Google,Pixel 7 Pro,11977MB,Phone,Google Tensor,ARM Mali G78 (848 MHz),1440x3120,560,arm64-v8a,33,3.2
 google,coral,Google,Pixel 4 XL,5730MB,Phone,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1440x3040,560,arm64-v8a;armeabi;armeabi-v7a,32;33,3.2
 google,crosshatch,Google,Pixel 3 XL,3753MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1440x2960,560,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 google,flame,Google,Pixel 4,5730MB,Phone,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1080x2280,440,arm64-v8a;armeabi;armeabi-v7a,32;33,3.2
 google,generic_x86_arm,Google,Google Android Emulator,2076MB,Phone,Intel i7-5200U,Unknown,1080x2280,440,armeabi;armeabi-v7a;x86,30,2.0
 google,marlin,Google,Pixel XL,3948MB,Phone,Qualcomm MSM8996,Qualcomm Adreno 530 (653 MHz),1440x2560,560,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 google,oriole,Google,Pixel 6,7951MB,Phone,Google Tensor,ARM Mali G78 (848 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,32;33,3.2
+google,panther,Google,Pixel 7,7791MB,Phone,Google Tensor,ARM Mali G78 (848 MHz),1080x2400,420,arm64-v8a,33,3.2
 google,raven,Google,Pixel 6 Pro,12079MB,Phone,Google Tensor,ARM Mali G78 (848 MHz),1440x3120,560,arm64-v8a;armeabi;armeabi-v7a,32;33,3.2
 google,redfin,Google,Pixel 5,7823MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,30;32;33,3.2
 google,sailfish,Google,Pixel,3948MB,Phone,Qualcomm MSM8996,Qualcomm Adreno 530 (653 MHz),1080x1920,420,arm64-v8a;armeabi;armeabi-v7a,29,3.2
@@ -51,7 +53,7 @@ HONOR,HWCOL,Huawei,Honor 10,3803MB,Phone,HiSilicon KIRIN970,ARM Mali G72 (900 MH
 HUAWEI,HWELE,Huawei,HUAWEI P30,5881MB,Phone,HiSilicon KIRIN980,ARM Mali G76 (720 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,28;29,3.2
 HUAWEI,HWEML,Huawei,P20,3825MB,Phone,HiSilicon KIRIN970,ARM Mali G72 (900 MHz),1080x2244,480,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
 HUAWEI,HWEVR,Huawei,HUAWEI Mate 20 X (5G),5904MB,Phone,HiSilicon KIRIN980,ARM Mali G76 (720 MHz),1080x2244,480,arm64-v8a;armeabi;armeabi-v7a,29,3.2
-HUAWEI,HWHMA,Huawei,Mate 20,3777MB,Phone,HiSilicon KIRIN980,ARM Mali G76 (720 MHz),1080x2244,480,arm64-v8a;armeabi;armeabi-v7a,29,3.2
+HUAWEI,HWHMA,Huawei,Mate 20,5904MB,Phone,HiSilicon KIRIN980,ARM Mali G76 (720 MHz),1080x2244,480,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 HUAWEI,HWINE,Huawei,nova 3i,3892MB,Phone,HiSilicon KIRIN710,4x ARM Mali G51 (1000 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,27;28,3.2
 HUAWEI,HWJKM-H,Huawei,HUAWEI Y9 2019,3892MB,Phone,HiSilicon KIRIN710,4x ARM Mali G51 (1000 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,27;28,3.2
 HONOR,HWJSN-H,Huawei,Honor 8X,3858MB,Phone,HiSilicon KIRIN710,4x ARM Mali G51 (1000 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
@@ -73,8 +75,9 @@ Infinix,Infinix-X676C,Infinix,Infinix NOTE 12 2023,8071MB,Phone,Mediatek MT6785,
 Infinix,Infinix-X6810,Infinix,Infinix ZERO X NEO,8072MB,Phone,Mediatek MT6785,ARM Mali G76 (720 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Infinix,Infinix-X6811,Infinix,Infinix ZERO X Pro,8027MB,Phone,Mediatek MT6785,ARM Mali G76 (720 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Infinix,Infinix-X6811B,Infinix,Infinix ZERO X,8067MB,Phone,Mediatek MT6785,ARM Mali G76 (720 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-Infinix,Infinix-X6815,Infinix,Infinix ZERO 5G,8006MB,Phone,Mediatek MT6877V/ZA,4x ARM Mali G68 (900 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+Infinix,Infinix-X6815,Infinix,ZERO 5G,8016MB,Phone,Mediatek MT6877V/ZA,4x ARM Mali G68 (900 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Infinix,Infinix-X6815B,Infinix,Infinix ZERO 5G,8006MB,Phone,Mediatek MT6877V/ZA,4x ARM Mali G68 (900 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+Infinix,Infinix-X6815C,Infinix,ZERO 5G 2023,7927MB,Phone,Mediatek MT6877V/ZA,4x ARM Mali G68 (900 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Infinix,Infinix-X6820,Infinix,ZERO ULTRA,7928MB,Phone,Mediatek MT6877V/TZA,4x ARM Mali G68 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Infinix,Infinix-X6821,Infinix,Infinix ZERO 20,8069MB,Phone,Mediatek MT6785V/WV,ARM Mali G76 (720 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Infinix,Infinix-X687,Infinix,Infinix ZERO8,8067MB,Phone,Mediatek MT6785,ARM Mali G76 (720 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,29,3.2
@@ -88,11 +91,10 @@ Infinix,Infinix-X695C,Infinix,NOTE 10 Pro,7992MB,Phone,Mediatek MT6785,ARM Mali 
 Infinix,Infinix-X695D,Infinix,NOTE 10 Pro,7992MB,Phone,Mediatek MT6785,ARM Mali G76 (720 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Infinix,Infinix-X697,Infinix,NOTE 11 Pro,8198MB,Phone,Mediatek MT6781V/CD,2x ARM Mali G57 (950 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Infinix,Infinix-X698,Infinix,NOTE 11S,8198MB,Phone,Mediatek MT6781V/CD,2x ARM Mali G57 (950 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-KRIP,KRIP_K700A,KRIP,K700A,3822MB,Phone,Mediatek MT6580M,Unknown,1440x2960,560,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 KYOCERA,E7110,Kyocera,DuraForce Ultra 5G,5712MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2160,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 KYOCERA,KC-S304,Kyocera,DIGNO SANGA edition,3603MB,Phone,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-KYOCERA,KY21L-RG100,Kyocera,DuraSport 5G,3604MB,Phone,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-KYOCERA,KYG01,Kyocera,TORQUE(R) 5G,5762MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2160,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+KYOCERA,KY21L-RG100,Kyocera,DuraSport 5G,3603MB,Phone,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+KYOCERA,KYG01,Kyocera,TORQUE(R) 5G,5762MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2160,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 KYOCERA,KYV46,Kyocera,TORQUE G04,3917MB,Phone,Qualcomm SDM660,Qualcomm Adreno 512 (650 MHz),1080x1920,480,arm64-v8a;armeabi;armeabi-v7a,28;29,3.2
 KYOCERA,S9-KC_sprout,Kyocera,Android One S9,3603MB,Phone,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 lge,L-01K,LGE,V30+,3897MB,Phone,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1440x2880,640,arm64-v8a;armeabi;armeabi-v7a,28,3.2
@@ -106,29 +108,29 @@ lge,acexlm,LGE,K92,5762MB,Phone,Qualcomm SM6350,Qualcomm Adreno 619 (565 MHz),10
 lge,alphaamz,LGE,LG G8 ThinQ™,5725MB,Phone,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1440x3120,560,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 lge,alphalm,LGE,LG G8 ThinQ™,5725MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x3120,560,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 lge,alphaplus,LGE,LG G8 ThinQ™,5723MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x3120,560,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-lge,betalm,LGE,G8s,5725MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2248,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+lge,betalm,LGE,G8S ThinQ,5725MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2248,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 lge,blm,LGE,I project,11864MB,Tablet,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1876x2428,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 google,bullhead,LGE,Nexus 5X,1902MB,Phone,Qualcomm MSM8992,Qualcomm Adreno 418 (600 MHz),1080x1920,420,arm64-v8a;armeabi;armeabi-v7a,27,3.2
 lge,caymanlm,LGE,VELVET,5773MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2460,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-lge,caymanslm,LGE,VELVET,5921MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1080x2460,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+lge,caymanslm,LGE,VELVET,5919MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1080x2460,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 lge,cv7an,LGE,Q8,3812MB,Phone,Qualcomm SDM450,Qualcomm Adreno 506 (600 MHz),1080x2160,420,armeabi;armeabi-v7a,27,3.2
 lge,cv7as,LGE,LG Stylo 5,2945MB,Phone,Qualcomm SDM450,Qualcomm Adreno 506 (600 MHz),1080x2160,420,arm64-v8a;armeabi;armeabi-v7a,28;29,3.2
 lge,cv7as-pr,LGE,LG Stylo 5+,2947MB,Phone,Qualcomm SDM450,Qualcomm Adreno 506 (600 MHz),1080x2160,420,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 lge,falcon,LGE,LG G7 fit,3956MB,Phone,Qualcomm MSM8996Pro,Qualcomm Adreno 530 (653 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,28,3.2
-lge,fh50lm,LGE,LG Stylo 7,3840MB,Phone,Qualcomm SM6115,Qualcomm Adreno 610 (950 MHz),1080x2460,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+lge,fh50lm,LGE,LG Stylo 7,3837MB,Phone,Qualcomm SM6115,Qualcomm Adreno 610 (950 MHz),1080x2460,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 lge,flashlm,LGE,V50 ThinQ,5684MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x3120,560,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 lge,flashlmdd,LGE,LG V50 ThinQ,5684MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x3120,560,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-KDDI,joan,LGE,V30+,3897MB,Phone,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1440x2880,640,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 lge,joan,LGE,V30,3897MB,Phone,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1440x2880,640,arm64-v8a;armeabi;armeabi-v7a,26;28,3.2
+KDDI,joan,LGE,V30+,3897MB,Phone,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1440x2880,640,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 lge,judyln,LGE,LG G7 ThinQ,3826MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1440x3120,560,arm64-v8a;armeabi;armeabi-v7a,26;28;29,3.2
 lge,judyp,LGE,LG V35 ThinQ,5921MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1440x2880,560,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 lge,judypn,LGE,V40 ThinQ,5921MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1440x3120,560,arm64-v8a;armeabi;armeabi-v7a,28;29,3.2
 lge,lucye,LGE,LG G6,3961MB,Phone,Qualcomm MSM8996,Qualcomm Adreno 530 (653 MHz),1440x2880,640,arm64-v8a;armeabi;armeabi-v7a,24;26;28,3.2
 lge,mcaymanlm,LGE,VELVET,5728MB,Phone,Mediatek MT6883,5x ARM Mali G57 (654 MHz),1080x2460,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 lge,mdh40lm,LGE,K61,3977MB,Phone,Mediatek MT6765,Imagination Tech PowerVR GE8320 (680 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
-lge,mdh50lm,LGE,Stylo 6,2929MB,Phone,Mediatek MT6765,Imagination Tech PowerVR GE8320 (680 MHz),1080x2460,420,arm64-v8a;armeabi;armeabi-v7a,29,3.2
+lge,mdh50lm,LGE,Stylo 6,2929MB,Phone,Mediatek MT6765,Imagination Tech PowerVR GE8320 (680 MHz),1080x2460,420,arm64-v8a;armeabi;armeabi-v7a,29;31,3.2
 lge,mh,LGE,LG Q6,3032MB,Phone,Qualcomm MSM8940,Qualcomm Adreno 505 (450 MHz),1080x2004,480,armeabi;armeabi-v7a,25;27,3.2
-lge,mh2lm,LGE,V50S ThinQ,7780MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
+lge,mh2lm,LGE,G8X ThinQ,7780MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 lge,mh3,LGE,LG Q70,3805MB,Phone,Qualcomm SM6150,Qualcomm Adreno 612 (845 MHz),1080x2310,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 lge,mh3-pl,LGE,LG Q70,3805MB,Phone,Qualcomm SM6150,Qualcomm Adreno 612 (845 MHz),1080x2310,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 lge,mhn,LGE,LG Q6,3020MB,Phone,Qualcomm MSM8940,Qualcomm Adreno 505 (450 MHz),1080x2160,480,armeabi;armeabi-v7a,25;27,3.2
@@ -142,7 +144,7 @@ LAVA,iris50c,Lava,iris50c,3822MB,Phone,Mediatek MT6580M,Unknown,1440x2960,560,ar
 Lenovo,J607Z,Lenovo,Lenovo Tab P11 5G,5733MB,Tablet,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Lenovo,J706F,Lenovo,Lenovo Tab P11 Pro,5907MB,Tablet,Qualcomm SDM712,Qualcomm Adreno 616 (500 MHz),1600x2560,320,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Lenovo,J706L,Lenovo,Lenovo Tab P11 Pro,5907MB,Tablet,Qualcomm SDM712,Qualcomm Adreno 616 (500 MHz),1600x2560,320,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-Lenovo,Q706F,Lenovo,小新Pad Pro 12.6,5916MB,Tablet,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1600x2560,240,arm64-v8a;armeabi;armeabi-v7a,32,3.2
+Lenovo,Q706F,Lenovo,Lenovo Tab P12 Pro,5916MB,Tablet,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1600x2560,240,arm64-v8a;armeabi;armeabi-v7a,32,3.2
 Lenovo,Q706Z,Lenovo,Lenovo Tab P12 Pro,5916MB,Tablet,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1600x2560,240,arm64-v8a;armeabi;armeabi-v7a,32,3.2
 Lenovo,TB-J616F,Lenovo,Lenovo Tab P11 Plus,3848MB,Tablet,Mediatek MT8183A,3x ARM Mali G72 (800 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Lenovo,TB-J616X,Lenovo,Lenovo Tab P11 Plus,3680MB,Tablet,Mediatek MT8788A,3x ARM Mali G72 (800 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,30,3.2
@@ -153,7 +155,8 @@ Lenovo,caprip,Lenovo,Lenovo K13 Pro,5996MB,Phone,Qualcomm SM6115,Qualcomm Adreno
 Lenovo,guamp,Lenovo,Lenovo K12 Note,3906MB,Phone,Qualcomm SM6115,Qualcomm Adreno 610 (950 MHz),720x1600,280,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 LitByLeia,LPD-10W,LitByLeia,LUME,8067MB,Tablet,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Meizu,16thPlus,Meizu,16th Plus,3822MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1440x2960,560,arm64-v8a;armeabi;armeabi-v7a,29,3.2
-meizu,Note9,Meizu,Note9,3822MB,Phone,Qualcomm SDM675,Qualcomm Adreno 612 (845 MHz),1440x2960,560,arm64-v8a;armeabi;armeabi-v7a,29,3.2
+Meizu,M1822,Meizu,M1822,3822MB,Phone,Qualcomm SDM636,Qualcomm Adreno 509 (370 MHz),1440x2960,560,arm64-v8a;armeabi;armeabi-v7a,29,3.2
+Meizu,M1852,Meizu,M1852,3822MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1440x2960,560,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 meizu,meizu16T,Meizu,16T,3822MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x2960,560,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 meizu,meizu16sPro,Meizu,16s pro,3822MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x2960,560,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Mi,aliothin,Mi,Mi 11 X,5886MB,Phone,Qualcomm SM8250Pro,Qualcomm Adreno 650 (670 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
@@ -163,8 +166,8 @@ motorola,ali_n,Motorola,moto g(6),2994MB,Phone,Qualcomm SDM450,Qualcomm Adreno 5
 motorola,astro,Motorola,motorola one fusion,3888MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),720x1600,280,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 motorola,austin,Motorola,moto g 5G (2022),3836MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),720x1600,280,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 motorola,beckham,Motorola,moto z3 play,3928MB,Phone,Qualcomm SDM636,Qualcomm Adreno 509 (370 MHz),1080x2160,480,arm64-v8a;armeabi;armeabi-v7a,28,3.2
-motorola,berlin,Motorola,motorola edge 20,7714MB,Phone,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1080x2400,400,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-motorola,berlna,Motorola,motorola edge (2021),5622MB,Phone,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1080x2460,400,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+motorola,berlin,Motorola,motorola edge 轻奢版,7714MB,Phone,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1080x2400,400,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+motorola,berlna,Motorola,motorola edge 5G UW (2021),5622MB,Phone,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1080x2460,400,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 motorola,blackjack,Motorola,moto g(8) power lite,3956MB,Phone,Mediatek MT6765,Imagination Tech PowerVR GE8320 (680 MHz),720x1600,260,arm64-v8a;armeabi;armeabi-v7a,28;29,3.2
 motorola,borneo,Motorola,moto g power (2021),3906MB,Phone,Qualcomm SM6115,Qualcomm Adreno 610 (950 MHz),720x1600,280,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 motorola,burton,Motorola,motorola edge plus,12219MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
@@ -199,7 +202,7 @@ Lenovo,java,Motorola,Lenovo K13 Note,3656MB,Phone,Spreadtrum T610,2x ARM Mali G5
 motorola,kane_sprout,Motorola,motorola one vision,3924MB,Phone,Samsung Exynos 9609,ARM Mali G72 (1000 MHz),1080x2520,480,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 motorola,kiev,Motorola,moto g 5G,5726MB,Phone,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1080x2400,400,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 motorola,kievv,Motorola,motorola one 5G UW ace,3637MB,Phone,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1080x2400,400,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-motorola,kyoto,Motorola,motorola edge 20 lite,5906MB,Phone,Mediatek MT6853V/NZA,3x ARM Mali G57 (748 MHz),1080x2400,400,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+motorola,kyoto,Motorola,motorola edge 20 fusion,5883MB,Phone,Mediatek MT6853V/NZA,3x ARM Mali G57 (748 MHz),1080x2400,400,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 motorola,lake,Motorola,moto g(7) plus,6022MB,Phone,Qualcomm SDM636,Qualcomm Adreno 509 (370 MHz),1080x2270,480,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 motorola,liber,Motorola,motorola one fusion+,3827MB,Phone,Qualcomm SM7150,Qualcomm Adreno 618 (700 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 motorola,lima,Motorola,moto g(8) play,1891MB,Phone,Mediatek MT6771,3x ARM Mali G72 (800 MHz),720x1520,280,armeabi;armeabi-v7a,28;29,3.2
@@ -231,7 +234,7 @@ motorola,saipan,Motorola,moto g(50) 5G,3841MB,Phone,Mediatek MT6833V/ZA,2x ARM M
 motorola,sanders,Motorola,Moto G (5S) Plus,2995MB,Phone,Qualcomm MSM8953,Qualcomm Adreno 506 (650 MHz),1080x1920,480,armeabi;armeabi-v7a,27,3.2
 motorola,sanders_n,Motorola,Moto G (5S) Plus,3794MB,Phone,Qualcomm MSM8953,Qualcomm Adreno 506 (650 MHz),1080x1920,480,armeabi;armeabi-v7a,25;27,3.2
 motorola,sanders_nt,Motorola,Moto G (5S) Plus,2995MB,Phone,Qualcomm MSM8953,Qualcomm Adreno 506 (650 MHz),1080x1920,480,armeabi;armeabi-v7a,25;27,3.2
-motorola,smith,Motorola,motorola razr (2020),7851MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),876x2142,360,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+motorola,smith,Motorola,motorola razr 5G,7851MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),876x2142,360,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 motorola,sofia,Motorola,moto g power,3841MB,Phone,Qualcomm SM6125,Qualcomm Adreno 610 (950 MHz),1080x2300,420,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 motorola,sofiap,Motorola,moto g stylus,3841MB,Phone,Qualcomm SM6125,Qualcomm Adreno 610 (950 MHz),1080x2300,420,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 motorola,sofiap_sprout,Motorola,moto g pro,3841MB,Phone,Qualcomm SM6125,Qualcomm Adreno 610 (950 MHz),1080x2300,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
@@ -241,7 +244,7 @@ motorola,tonga,Motorola,moto g power (2022),3945MB,Phone,Mediatek MT6765,Imagina
 motorola,troika,Motorola,motorola one action,3924MB,Phone,Samsung Exynos 9609,ARM Mali G72 (1000 MHz),1080x2520,480,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 motorola,troika_sprout,Motorola,motorola one action,3924MB,Phone,Samsung Exynos 9609,ARM Mali G72 (1000 MHz),1080x2520,480,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 motorola,tundra,Motorola,motorola edge 30 fusion,7686MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,400,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-motorola,xpeng,Motorola,moto g200 5G,7688MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2460,400,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+motorola,xpeng,Motorola,motorola edge S30,7688MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2460,400,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 NEC,LAVIETabT1212QHD1,NEC,LAVIETab T12 12QHD1,8031MB,Tablet,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1600x2560,240,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Nokia,A1N_sprout,Nokia,Nokia 8 Sirocco,5996MB,Phone,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1440x2560,560,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Nokia,B2N_sprout,Nokia,Nokia 7 plus,3911MB,Phone,Qualcomm SDM660,Qualcomm Adreno 512 (650 MHz),1080x2160,420,arm64-v8a;armeabi;armeabi-v7a,29,3.2
@@ -255,21 +258,22 @@ Nokia,DRDA_sprout,Nokia,Nokia 5.4,3850MB,Phone,Qualcomm SM6115,Qualcomm Adreno 6
 Nokia,DRD_sprout,Nokia,Nokia 5.4,3850MB,Phone,Qualcomm SM6115,Qualcomm Adreno 610 (950 MHz),720x1560,280,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 Nokia,DRG_sprout,Nokia,Nokia 6.1 Plus,3916MB,Phone,Qualcomm SDM636,Qualcomm Adreno 509 (370 MHz),1080x2280,420,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Nokia,DRSA_sprout,Nokia,Nokia 3.4,3850MB,Phone,Qualcomm SM4250,Qualcomm Adreno 610 (600 MHz),720x1560,280,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-Nokia,DRS_sprout,Nokia,Nokia 3.4,2802MB,Phone,Qualcomm SM4250,Qualcomm Adreno 610 (600 MHz),720x1560,280,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+Nokia,DRS_sprout,Nokia,Nokia 3.4,2802MB,Phone,Qualcomm SM4250,Qualcomm Adreno 610 (600 MHz),720x1560,280,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Nokia,NB1,Nokia,Nokia 8,3904MB,Phone,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1440x2560,560,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 Nokia,PL2_sprout,Nokia,Nokia 6.1,2866MB,Phone,Qualcomm SDM630,Qualcomm Adreno 508 (650 MHz),1080x1920,420,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Nokia,PNX_sprout,Nokia,Nokia 8.1,3875MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1080x2246,420,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Nokia,RAV_VZW,Nokia,Nokia 8 V 5G UW,5754MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2400,400,arm64-v8a;armeabi;armeabi-v7a,29,3.2
+Nothing,Spacewar,Nothing,Nothing phone (1),7624MB,Phone,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OnePlus,Nord,OnePlus,OnePlus Nord,11934MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2400,450,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OnePlus,OP5154L1,OnePlus,OnePlus 9RT 5G,11811MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-OnePlus,OP5155L1,OnePlus,OnePlus 9RT 5G,7632MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+OnePlus,OP5155L1,OnePlus,OnePlus 9RT 5G,7639MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OnePlus,OP5159L1,OnePlus,OnePlus Nord N20 5G,5666MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-OnePlus,OP515BL1,OnePlus,OnePlus Nord2 5G,7879MB,Phone,Mediatek MT6893,9x ARM Mali G77 (805 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+OnePlus,OP515BL1,OnePlus,OnePlus Nord2 5G,7853MB,Phone,Mediatek MT6893,9x ARM Mali G77 (805 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OnePlus,OP516EL1,OnePlus,OnePlus 10 Pro,11772MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1440x3216,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OnePlus,OP516FL1,OnePlus,OnePlus 10 Pro 5G,11772MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1440x3216,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OnePlus,OP535DL1,OnePlus,OnePlus Nord CE 2 Lite 5G,5673MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2412,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OnePlus,OP5552L1,OnePlus,OnePlus 10T 5G,11776MB,Phone,QTI SM8475,Qualcomm Adreno 730 (900 MHz),1080x2412,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-OnePlus,OP555BL1,OnePlus,OnePlus Nord CE 2,7944MB,Phone,Mediatek MT6877V/ZA,4x ARM Mali G68 (900 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+OnePlus,OP555BL1,OnePlus,OnePlus Nord CE 2,7920MB,Phone,Mediatek MT6877V/ZA,4x ARM Mali G68 (900 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OnePlus,OP5566L1,OnePlus,OnePlus 10R 5G,11969MB,Phone,Mediatek MT6895,6x ARM Mali G610 (695 MHz),1080x2412,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OnePlus,OP5567L1,OnePlus,OnePlus 10R 5G,7762MB,Phone,Mediatek MT6895,6x ARM Mali G610 (695 MHz),1080x2412,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OnePlus,OP557AL1,OnePlus,OnePlus Nord 2T 5G,7821MB,Phone,Mediatek MT6893,9x ARM Mali G77 (805 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
@@ -284,7 +288,7 @@ OnePlus,OnePlus7,OnePlus,OnePlus 7,5740MB,Phone,Qualcomm SM8150,Qualcomm Adreno 
 OnePlus,OnePlus7Pro,OnePlus,OnePlus 7 Pro,7836MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x3120,600,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 OnePlus,OnePlus7ProNR,OnePlus,OnePlus 7 Pro 5G,7761MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x3120,560,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 OnePlus,OnePlus7ProTMO,OnePlus,OnePlus 7 Pro,7836MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x3120,600,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-OnePlus,OnePlus7T,OnePlus,OnePlus 7T,7836MB,Phone,Qualcomm SM8150P,Qualcomm Adreno 640 (675 MHz),1080x2400,450,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
+OnePlus,OnePlus7T,OnePlus,OnePlus 7T,7836MB,Phone,Qualcomm SM8150P,Qualcomm Adreno 640 (675 MHz),1080x2400,450,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 OnePlus,OnePlus7TPro,OnePlus,OnePlus 7T Pro,7836MB,Phone,Qualcomm SM8150P,Qualcomm Adreno 640 (675 MHz),1440x3120,600,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 OnePlus,OnePlus7TProNR,OnePlus,OnePlus 7T Pro 5G,12119MB,Phone,Qualcomm SM8150P,Qualcomm Adreno 640 (675 MHz),1440x3120,600,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 OnePlus,OnePlus7TTMO,OnePlus,OnePlus 7T,7836MB,Phone,Qualcomm SM8150P,Qualcomm Adreno 640 (675 MHz),1080x2400,450,arm64-v8a;armeabi;armeabi-v7a,30,3.2
@@ -295,7 +299,7 @@ OnePlus,OnePlus8TMO,OnePlus,OnePlus 8 5G ,7894MB,Phone,Qualcomm SM8250,Qualcomm 
 OnePlus,OnePlus8TTMO,OnePlus,OnePlus 8T+ 5G,12073MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OnePlus,OnePlus8VZW,OnePlus,OnePlus 8 5G UW,7887MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,450,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 OnePlus,OnePlus9,OnePlus,OnePlus 9 5G,11804MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-OnePlus,OnePlus9Pro,OnePlus,OnePlus 9Pro 5G,11804MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2412,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+OnePlus,OnePlus9Pro,OnePlus,OnePlus 9 Pro 5G,11804MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2412,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OnePlus,OnePlus9ProTMO,OnePlus,OnePlus 9 Pro 5G,11804MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2412,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OnePlus,OnePlus9R,OnePlus,OnePlus 9R,7894MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OnePlus,OnePlus9TMO,OnePlus,OnePlus 9 5G,7632MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
@@ -309,7 +313,7 @@ OPPO,CPH1877,Oppo,R17 Pro,5894MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 
 OPPO,OP4679,Oppo,K3,7991MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 OPPO,OP4699,Oppo,Reno Z 中国版,5865MB,Phone,Mediatek MT6779p90,2x Imagination Tech PowerVR GM9446 (970 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 OPPO,OP46B1,Oppo,Reno 标准版,5890MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-OPPO,OP46C3,Oppo,Reno 10倍变焦版,7839MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+OPPO,OP46C3,Oppo,Reno 10倍变焦版,5743MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 OPPO,OP47CFL1,Oppo,Reno A,5896MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 OPPO,OP47DD,Oppo,Reno,5890MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 OPPO,OP47DDL1,Oppo,Reno,5890MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
@@ -330,7 +334,7 @@ OPPO,OP4A89,Oppo,Reno Ace,7855MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 
 OPPO,OP4A9D,Oppo,Reno3 Pro 5G中国版,7757MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OPPO,OP4AA7,Oppo,K5,7918MB,Phone,Qualcomm SM7150,Qualcomm Adreno 618 (700 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 OPPO,OP4AB5,Oppo,PCRT01,7758MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-OPPO,OP4ABB,Oppo,PDKT00,7871MB,Phone,Mediatek MT6873,4x ARM Mali G57 (748 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+OPPO,OP4ABB,Oppo,PDKT00,7872MB,Phone,Mediatek MT6873,4x ARM Mali G57 (748 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OPPO,OP4AD9,Oppo,Reno Ace2,7891MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OPPO,OP4AE7,Oppo,A52 中国版,7988MB,Phone,Qualcomm SM6125,Qualcomm Adreno 610 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 OPPO,OP4AF7,Oppo,Reno4 Pro,11937MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
@@ -359,33 +363,33 @@ OPPO,OP4EE8L1,Oppo,CPH2161,7858MB,Phone,Mediatek MT6853V/ZA,3x ARM Mali G57 (748
 OPPO,OP4F0BL1,Oppo,CPH2207,12071MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OPPO,OP4F1BL1,Oppo,CPH2145,7755MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OPPO,OP4F1FL1,Oppo,OPPO Reno5 pro,7838MB,Phone,Mediatek MT6889,9x ARM Mali G77 (805 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-OPPO,OP4F25L1,Oppo,CPH2159,7827MB,Phone,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+OPPO,OP4F25L1,Oppo,CPH2235,7827MB,Phone,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OPPO,OP4F2BL1,Oppo,Reno5 A (eSIM),5659MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-OPPO,OP4F39L1,Oppo,CPH2197,3660MB,Phone,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-OPPO,OP4F43L1,Oppo,F19 Pro,8006MB,Phone,Mediatek MT6779p95,2x Imagination Tech PowerVR GM9446 (970 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+OPPO,OP4F39L1,Oppo,OPG02_jp_kdi,3660MB,Phone,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+OPPO,OP4F43L1,Oppo,Reno5 Lite,8006MB,Phone,Mediatek MT6779p95,2x Imagination Tech PowerVR GM9446 (970 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OPPO,OP4F4DL1,Oppo,CPH2213,7911MB,Phone,Mediatek MT6853V/TNZA,3x ARM Mali G57 (748 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OPPO,OP4F57L1,Oppo,Find X3 Pro,11800MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1440x3216,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OPPO,OP4F7FL1,Oppo,CPH2247,12046MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OPPO,OP4F81L1,Oppo,CPH2249,12071MB,Phone,Mediatek MT6893,9x ARM Mali G77 (805 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-OPPO,OP4F83L1,Oppo,CPH2251,7921MB,Phone,Mediatek MT6877V/ZA,4x ARM Mali G68 (900 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+OPPO,OP4F83L1,Oppo,CPH2251,7922MB,Phone,Mediatek MT6877V/ZA,4x ARM Mali G68 (900 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OPPO,OP4FA7L1,Oppo,OPPO Reno6 Z 5G,7911MB,Phone,Mediatek MT6853V/TNZA,3x ARM Mali G57 (748 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OPPO,OP520DL1,Oppo,PFFM10,7639MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-OPPO,OP5245,Oppo,PEYM00,12075MB,Phone,Mediatek MT6893,9x ARM Mali G77 (805 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+OPPO,OP5245,Oppo,PEYM00,12074MB,Phone,Mediatek MT6893,9x ARM Mali G77 (805 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OPPO,OP52D1L1,Oppo,OPPO Find X5 Pro,11772MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1440x3216,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OPPO,OP52D5L1,Oppo,Find X5,7639MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OPPO,OP52E1L1,Oppo,CPH2293,12073MB,Phone,Mediatek MT6893,9x ARM Mali G77 (805 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OPPO,OP52EBL1,Oppo,A55s 5G,3654MB,Phone,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 OPPO,OP532BL1,Oppo,OPPO Reno7 A,5666MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-OPPO,OP532FL1,Oppo,OPPO F21 Pro 5G,7758MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-OPPO,OP5335L1,Oppo,Reno8 Pro 5G,11956MB,Phone,Mediatek MT6895Z/TCZA,6x ARM Mali G610 (850 MHz),1080x2412,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+OPPO,OP532FL1,Oppo,OPPO F21 Pro 5G,7778MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+OPPO,OP5335L1,Oppo,OPPO Reno8 Pro 5G,11956MB,Phone,Mediatek MT6895Z/TCZA,6x ARM Mali G610 (850 MHz),1080x2412,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OPPO,OP5339L1,Oppo,OPPO Reno8 5G,7819MB,Phone,Mediatek MT6893,9x ARM Mali G77 (805 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 OPPO,OPD4A1L1,Oppo,OPPO Reno7 5G/Find X5 Lite,7919MB,Phone,Mediatek MT6877V/ZA,4x ARM Mali G68 (900 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-realme,RE54F3L1,Oppo,realme9 5G,3832MB,Phone,Mediatek MT6833P,2x ARM Mali G57 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+realme,RE54F3L1,Oppo,realme9 5G,5898MB,Phone,Mediatek MT6833P,2x ARM Mali G57 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Realme,RMX1851CN,Oppo,realme X Lite,3793MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Realme,RMX1853,Oppo,realme 3Pro,5930MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Realme,RMX1901CN,Oppo,realme X,5888MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 realme,RMX1911,Oppo,realme 5,2770MB,Phone,Qualcomm SM6125,Qualcomm Adreno 610 (950 MHz),720x1600,320,arm64-v8a;armeabi;armeabi-v7a,28;29,3.2
-Android,generic_arm64,Oppo,K系列,1495MB,Phone,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1080x2280,440,arm64-v8a,28,3.0
+Android,generic_arm64,Oppo,K系列,1495MB,Phone,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1080x1920,420,arm64-v8a,28,3.0
 POCO,alioth,POCO,POCO F3,7983MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 POCO,aresin,POCO,POCO F3 GT,7871MB,Phone,Mediatek MT6893,9x ARM Mali G77 (805 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 POCO,bhima,POCO,POCO X3 Pro,5767MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
@@ -400,7 +404,6 @@ POCO,miel,POCO,POCO M4 Pro,5975MB,Phone,Mediatek MT6781V/CD,2x ARM Mali G57 (950
 POCO,munch,POCO,POCO F4,7983MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 POCO,peux,POCO,POCO X4 Pro 5G,5701MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 POCO,phoenixin,POCO,POCO X2,5838MB,Phone,Qualcomm SM7150,Qualcomm Adreno 618 (700 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
-POCO,rosemary,POCO,POCO M5s,5863MB,Phone,Mediatek MT6785,ARM Mali G76 (720 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 POCO,surya,POCO,POCO X3 NFC,5903MB,Phone,Qualcomm SM7150,Qualcomm Adreno 618 (700 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 POCO,vayu,POCO,POCO X3 Pro,7863MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 POCO,veux,POCO,POCO X4 Pro 5G,7794MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
@@ -427,10 +430,10 @@ realme,RMX2001L1,Realme,realme 6,5968MB,Phone,Mediatek MT6785T,ARM Mali G76 (800
 realme,RMX2002L1,Realme,realme 6s,5968MB,Phone,Mediatek MT6785T,ARM Mali G76 (800 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 realme,RMX2003L1,Realme,realme 6,8082MB,Phone,Mediatek MT6785T,ARM Mali G76 (800 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 realme,RMX2075L1,Realme,realme X50 Pro,12045MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-realme,RMX2081L1,Realme,realme X3,7855MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-realme,RMX2085L1,Realme,realme X3,7855MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+realme,RMX2081L1,Realme,realme X3,7855MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+realme,RMX2085L1,Realme,realme X3,7855MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 realme,RMX2144L1,Realme,realme X50 5G,5662MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-realme,RMX2202L1,Realme,realme GT 5G,11811MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+realme,RMX2202L1,Realme,realme GT 5G,7639MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Redmi,XIG02,Redmi,Redmi Note 10 JE,3634MB,Phone,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 Redmi,alioth,Redmi,Redmi K40,12162MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 Redmi,apollo,Redmi,Redmi K30S Ultra,7980MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
@@ -441,8 +444,8 @@ Redmi,camellia,Redmi,Redmi Note 10T 5G,3826MB,Phone,Mediatek MT6833V/ZA,2x ARM M
 Redmi,camellian,Redmi,Redmi Note 10 5G,3826MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 Redmi,cannon,Redmi,Redmi Note 9,7961MB,Phone,Mediatek MT6853V/ZA,3x ARM Mali G57 (748 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Redmi,cannong,Redmi,Redmi Note 9T,3679MB,Phone,Mediatek MT6853V/ZA,3x ARM Mali G57 (748 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
-Redmi,chopin,Redmi,Redmi Note 10 pro,7909MB,Phone,Mediatek MT6891,9x ARM Mali G77 (805 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 POCO,chopin,Redmi,Redmi Note 10 Pro,7862MB,Phone,Mediatek MT6891,9x ARM Mali G77 (805 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+Redmi,chopin,Redmi,Redmi Note 10 pro,7909MB,Phone,Mediatek MT6891,9x ARM Mali G77 (805 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Redmi,curtana,Redmi,Redmi Note 9S,5851MB,Phone,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 Xiaomi,davinci,Redmi,Redmi K20,5839MB,Phone,Qualcomm SM7150,Qualcomm Adreno 618 (700 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 Xiaomi,davinciin,Redmi,Redmi K20,5839MB,Phone,Qualcomm SM7150,Qualcomm Adreno 618 (700 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
@@ -462,11 +465,11 @@ Redmi,munch,Redmi,Redmi K40S,12162MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (
 Redmi,opal,Redmi,Redmi Note 11S 5G,5916MB,Phone,Mediatek MT6833V/PNZA,2x ARM Mali G57 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Redmi,peux,Redmi,Redmi Note 11 Pro+ 5G,5701MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Redmi,phoenix,Redmi,Redmi K30,7936MB,Phone,Qualcomm SM7150,Qualcomm Adreno 618 (700 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-Redmi,pissarropro,Redmi,Redmi Note 11 Pro+ 5G,7876MB,Phone,Mediatek MT6877V/TZA,4x ARM Mali G68 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+Redmi,pissarropro,Redmi,Redmi Note 11 Pro+,7876MB,Phone,Mediatek MT6877V/TZA,4x ARM Mali G68 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 Xiaomi,raphael,Redmi,Redmi K20 Pro,5769MB,Phone,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 Xiaomi,raphaelin,Redmi,Mi  9T  Pro,5769MB,Phone,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 Redmi,rosemary,Redmi,Redmi Note 10S,5886MB,Phone,Mediatek MT6785,ARM Mali G76 (720 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-Redmi,secret,Redmi,Redmi Note 10S,5886MB,Phone,Mediatek MT6785,ARM Mali G76 (720 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+Redmi,secret,Redmi,Redmi Note 11 SE,5886MB,Phone,Mediatek MT6785,ARM Mali G76 (720 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 Redmi,spes,Redmi,Redmi Note 11,3826MB,Phone,QTI SM6225,Qualcomm Adreno 610 (1115 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 Redmi,spesn,Redmi,Redmi Note 11,3826MB,Phone,QTI SM6225,Qualcomm Adreno 610 (1115 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 Redmi,sunny,Redmi,Redmi Note 10,3765MB,Phone,Qualcomm SM6150,Qualcomm Adreno 612 (845 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
@@ -490,9 +493,9 @@ samsung,SC-03K,Samsung,Galaxy S9+,5850MB,Phone,Qualcomm SDM845,Qualcomm Adreno 6
 samsung,SC-03L,Samsung,Galaxy S10,7823MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x3040,420,arm64-v8a;armeabi;armeabi-v7a,28;29;30;31,3.2
 samsung,SC-04L,Samsung,Galaxy S10+,7823MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x3040,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,SC-05L,Samsung,Galaxy S10+ Olympic Games Edition,7823MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x3040,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-samsung,SC-41A,Samsung,Galaxy A41,3856MB,Phone,Mediatek MT6768,ARM Mali G52 (820 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
+samsung,SC-41A,Samsung,Galaxy A41,3844MB,Phone,Mediatek MT6768,ARM Mali G52 (820 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 samsung,SC-51A,Samsung,Galaxy S20 5G,11116MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1440x3200,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-samsung,SC-51B,Samsung,Galaxy S21 5G,7717MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+samsung,SC-51B,Samsung,Galaxy S21 5G,7717MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,SC-51C,Samsung,Galaxy S22,7574MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,SC-52A,Samsung,Galaxy S20+ 5G,11116MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1440x3200,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,SC-52B,Samsung,Galaxy S21 Ultra 5G,10810MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1440x3200,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
@@ -505,7 +508,8 @@ samsung,SC-54B,Samsung,Galaxy Z Flip3 5G,7750MB,Phone,Qualcomm SM8350,Qualcomm A
 samsung,SC-54C,Samsung,Galaxy Z Flip4,7627MB,Phone,QTI SM8475,Qualcomm Adreno 730 (900 MHz),1080x2640,480,arm64-v8a;armeabi;armeabi-v7a,32,3.2
 samsung,SC-55B,Samsung,Galaxy Z Fold3 5G,11912MB,Tablet,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1768x2208,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,SC-55C,Samsung,Galaxy Z Fold4,11802MB,Tablet,QTI SM8475,Qualcomm Adreno 730 (900 MHz),1812x2176,420,arm64-v8a;armeabi;armeabi-v7a,32,3.2
-samsung,SC-56B,Samsung,Galaxy A22 5G,3782MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),720x1560,300,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+samsung,SC-56B,Samsung,Galaxy A22 5G,3777MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),720x1560,300,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+samsung,SC-56C,Samsung, Galaxy A23 5G ,3754MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),720x1560,300,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,SC51Aa,Samsung,Galaxy S20 5G,11116MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1440x3200,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,SCG01,Samsung,Galaxy S20 5G,11116MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1440x3200,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,SCG02,Samsung,Galaxy S20+ 5G,11116MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1440x3200,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
@@ -521,6 +525,9 @@ samsung,SCG12,Samsung,Galaxy Z Flip3 5G,7750MB,Phone,Qualcomm SM8350,Qualcomm Ad
 samsung,SCG13,Samsung,Galaxy S22,7574MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,SCG14,Samsung,Galaxy S22 Ultra,10678MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1440x3088,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,SCG15,Samsung, Galaxy A53 5G ,5644MB,Phone,Samsung s5e8825,4x ARM Mali G68 (1000 MHz),1080x2400,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+samsung,SCG16,Samsung,Galaxy Z Fold4,11802MB,Tablet,QTI SM8475,Qualcomm Adreno 730 (900 MHz),1812x2176,420,arm64-v8a;armeabi;armeabi-v7a,32,3.2
+samsung,SCG17,Samsung,Galaxy Z Flip4,7627MB,Phone,QTI SM8475,Qualcomm Adreno 730 (900 MHz),1080x2640,480,arm64-v8a;armeabi;armeabi-v7a,32,3.2
+samsung,SCG18,Samsung,Galaxy A23 5G,3754MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),720x1560,300,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 KDDI,SCV33,Samsung,Galaxy S7 Edge,3557MB,Phone,Qualcomm MSM8996,Qualcomm Adreno 530 (653 MHz),1080x1920,480,arm64-v8a;armeabi;armeabi-v7a,26,3.2
 KDDI,SCV35,Samsung,Galaxy S8+,3509MB,Phone,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1440x2960,420,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 KDDI,SCV36,Samsung,Galaxy S8,3508MB,Phone,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1440x2960,480,arm64-v8a;armeabi;armeabi-v7a,28,3.2
@@ -537,20 +544,20 @@ KDDI,SCV44,Samsung,Galaxy Fold,11993MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640
 KDDI,SCV45,Samsung,Galaxy Note10+,11992MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x3040,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 KDDI,SCV46,Samsung,Galaxy A20,2873MB,Phone,Samsung Exynos 7884B,ARM Mali G71 (450 MHz),720x1560,320,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 samsung,SCV47,Samsung,Galaxy Z Flip,7814MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2636,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-samsung,SCV48,Samsung,Galaxy A41,3844MB,Phone,Mediatek MT6768,ARM Mali G52 (820 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
+samsung,SCV48,Samsung,Galaxy A41,3844MB,Phone,Mediatek MT6768,ARM Mali G52 (820 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,29;31,3.2
 samsung,a13x,Samsung,Galaxy A13 5G,3794MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),720x1600,300,armeabi;armeabi-v7a,30;31,3.2
 samsung,a20,Samsung,Galaxy A20,2857MB,Phone,Samsung Exynos 7884B,ARM Mali G71 (450 MHz),720x1560,280,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 samsung,a20e,Samsung,Galaxy A20e,2876MB,Phone,Samsung Exynos 7884B,ARM Mali G71 (450 MHz),720x1560,320,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 samsung,a20s,Samsung,Galaxy A20s,2925MB,Phone,Qualcomm SDM450,Qualcomm Adreno 506 (600 MHz),720x1560,280,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 samsung,a22,Samsung,Galaxy A22,3894MB,Phone,Mediatek MT6769T,ARM Mali G52 (950 MHz),720x1600,300,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-samsung,a22x,Samsung,Galaxy A22s 5G,3821MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),1080x2408,450,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+samsung,a22x,Samsung,Galaxy A22 5G,3821MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),1080x2408,450,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 samsung,a23,Samsung,Galaxy A23,3763MB,Phone,QTI SM6225,Qualcomm Adreno 610 (1115 MHz),1080x2408,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,a23xq,Samsung,Galaxy A23 5G,3628MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2408,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,a30,Samsung,Galaxy A30,3928MB,Phone,Samsung Exynos 7904,ARM Mali G71 (845 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 samsung,a30s,Samsung,Galaxy A30s,3905MB,Phone,Samsung Exynos 7904,ARM Mali G71 (845 MHz),720x1560,280,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 samsung,a31,Samsung,Galaxy A31,3846MB,Phone,Mediatek MT6768,ARM Mali G52 (820 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 samsung,a32,Samsung,Galaxy A32,3822MB,Phone,Mediatek MT6769T,ARM Mali G52 (950 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-samsung,a32x,Samsung,Galaxy A32 5G,3695MB,Phone,Mediatek MT6853V/NZA,3x ARM Mali G57 (748 MHz),720x1600,300,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+samsung,a32x,Samsung,Galaxy M32 5G,3695MB,Phone,Mediatek MT6853V/NZA,3x ARM Mali G57 (748 MHz),720x1600,300,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 samsung,a33x,Samsung,Galaxy A33 5G,5644MB,Phone,Samsung s5e8825,4x ARM Mali G68 (1000 MHz),1080x2400,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,a3y17lte,Samsung,Galaxy A3(2017),1906MB,Phone,Samsung Exynos 7870,ARM Mali T830 (700 MHz),720x1280,320,armeabi;armeabi-v7a,24;26,3.2
 samsung,a40,Samsung,Galaxy A40,3927MB,Phone,Samsung Exynos 7904,ARM Mali G71 (845 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
@@ -593,7 +600,7 @@ samsung,a7y18lte,Samsung,Galaxy A7 (2018),3879MB,Phone,Samsung Exynos 7885,ARM M
 samsung,a7y18lteks,Samsung,Galaxy A7 (2018),3879MB,Phone,Samsung Exynos 7885,ARM Mali G71 (1100 MHz),1080x2220,420,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 samsung,a7y18ve,Samsung,Galaxy A7,3936MB,Phone,Samsung Exynos 7885,ARM Mali G71 (1100 MHz),1080x2220,420,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 samsung,a82xq,Samsung,Galaxy Quantum2,5631MB,Phone,Qualcomm SM8150P,Qualcomm Adreno 640 (675 MHz),1440x3200,450,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-samsung,b0q,Samsung,Galaxy S22 Ultra,7576MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1440x3088,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+samsung,b0q,Samsung,Galaxy S22 Ultra,10680MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1440x3088,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,b0s,Samsung,Galaxy S22 Ultra,11026MB,Phone,Samsung s5e9925,3x Samsung Xclipse 920 (1200 MHz),1440x3088,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,b2q,Samsung,Galaxy Z Flip3 5G,7748MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2640,480,arm64-v8a;armeabi;armeabi-v7a,30;31;32,3.2
 samsung,b4q,Samsung,Galaxy Z Flip4,7629MB,Phone,QTI SM8475,Qualcomm Adreno 730 (900 MHz),1080x2640,480,arm64-v8a;armeabi;armeabi-v7a,32,3.2
@@ -610,7 +617,7 @@ samsung,bloomxq,Samsung,Galaxy Z Flip 5G,8015MB,Phone,Qualcomm SM8250Pro,Qualcom
 samsung,c1q,Samsung,Galaxy Note20 5G,8017MB,Phone,Qualcomm SM8250Pro,Qualcomm Adreno 650 (670 MHz),1080x2400,450,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 samsung,c1s,Samsung,Galaxy Note20,7805MB,Phone,Samsung Exynos 990,ARM Mali G77 (800 MHz),1080x2400,450,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 samsung,c2q,Samsung,Galaxy Note20 Ultra 5G,11114MB,Phone,Qualcomm SM8250Pro,Qualcomm Adreno 650 (670 MHz),1440x3088,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-samsung,c2s,Samsung,Galaxy Note20 Ultra,11430MB,Phone,Samsung Exynos 990,ARM Mali G77 (800 MHz),1440x3088,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+samsung,c2s,Samsung,Galaxy Note20 Ultra 5G,11430MB,Phone,Samsung Exynos 990,ARM Mali G77 (800 MHz),1440x3088,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 samsung,crownlte,Samsung,Galaxy Note9,5888MB,Phone,Samsung Exynos 9810,ARM Mali G72 (600 MHz),1440x2960,420,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
 samsung,crownlteks,Samsung,Galaxy Note9,5888MB,Phone,Samsung Exynos 9810,ARM Mali G72 (600 MHz),1440x2960,420,arm64-v8a;armeabi;armeabi-v7a,28;29,3.2
 samsung,crownqltechn,Samsung,Galaxy Note9,5847MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1440x2960,420,arm64-v8a;armeabi;armeabi-v7a,29,3.2
@@ -654,21 +661,21 @@ samsung,gta4l,Samsung,Galaxy Tab A7,2836MB,Tablet,Qualcomm SM6115,Qualcomm Adren
 samsung,gta4lwifi,Samsung,Galaxy Tab A7,2835MB,Tablet,Qualcomm SM6115,Qualcomm Adreno 610 (950 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 samsung,gta4xl,Samsung,Galaxy Tab S6 Lite,3743MB,Tablet,Samsung Exynos 9611,ARM Mali G72 (1050 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,29;30;31;32,3.2
 samsung,gta4xlve,Samsung,Galaxy Tab S6 Lite,3676MB,Tablet,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-samsung,gta4xlvewifi,Samsung,Galaxy Tab S6 Lite,3676MB,Tablet,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+samsung,gta4xlvewifi,Samsung,Galaxy Tab S6 Lite,3676MB,Tablet,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,31;32,3.2
 samsung,gta4xlwifi,Samsung,Galaxy Tab S6 Lite,3888MB,Tablet,Samsung Exynos 9611,ARM Mali G72 (1050 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,29;30;31;32,3.2
-samsung,gta8,Samsung,Galaxy Tab A8,3683MB,Tablet,Spreadtrum T618,2x ARM Mali G52 (850 MHz),1200x1920,240,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-samsung,gta8wifi,Samsung,Galaxy Tab A8,2596MB,Tablet,Spreadtrum T618,2x ARM Mali G52 (850 MHz),1200x1920,240,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+samsung,gta8,Samsung,Galaxy Tab A8,3683MB,Tablet,Spreadtrum T618,2x ARM Mali G52 (850 MHz),1200x1920,240,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+samsung,gta8wifi,Samsung,Galaxy Tab A8,2596MB,Tablet,Spreadtrum T618,2x ARM Mali G52 (850 MHz),1200x1920,240,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 samsung,gtact4pro,Samsung,Galaxy Tab Active4 Pro 5G,5653MB,Tablet,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1200x1920,240,arm64-v8a;armeabi;armeabi-v7a,32,3.2
-samsung,gtactive3,Samsung,Galaxy Tab Active3,3776MB,Tablet,Samsung Exynos 9810,ARM Mali G72 (600 MHz),1200x1920,320,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+samsung,gtactive3,Samsung,Galaxy Tab Active3,3776MB,Tablet,Samsung Exynos 9810,ARM Mali G72 (600 MHz),1200x1920,320,arm64-v8a;armeabi;armeabi-v7a,30;31;32,3.2
 samsung,gtactivexl,Samsung,Galaxy Tab Active Pro,3820MB,Tablet,Qualcomm SDM670,Qualcomm Adreno 615 (420 MHz),1200x1920,240,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 samsung,gtactivexlwifi,Samsung,Galaxy Tab Active Pro,3820MB,Tablet,Qualcomm SDM670,Qualcomm Adreno 615 (420 MHz),1200x1920,240,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 samsung,gts3llte,Samsung,Galaxy TabS3,3898MB,Tablet,Qualcomm MSM8996,Qualcomm Adreno 530 (653 MHz),1536x2048,320,arm64-v8a;armeabi;armeabi-v7a,28,3.2
-samsung,gts3lltechn,Samsung,Galaxy TabS3,3556MB,Tablet,Qualcomm MSM8996,Qualcomm Adreno 530 (653 MHz),1536x2048,320,arm64-v8a;armeabi;armeabi-v7a,26,3.2
+samsung,gts3lltechn,Samsung,Galaxy TabS3,3898MB,Tablet,Qualcomm MSM8996,Qualcomm Adreno 530 (653 MHz),1536x2048,320,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 samsung,gts3lltekx,Samsung,Galaxy Tab S3,3898MB,Tablet,Qualcomm MSM8996,Qualcomm Adreno 530 (653 MHz),1536x2048,320,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 samsung,gts3llteusc,Samsung,Galaxy Tab S3,3899MB,Tablet,Qualcomm MSM8996,Qualcomm Adreno 530 (653 MHz),1536x2048,320,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 Verizon,gts3lltevzw,Samsung,Galaxy Tab S3,3899MB,Tablet,Qualcomm MSM8996,Qualcomm Adreno 530 (653 MHz),1536x2048,320,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 samsung,gts3lwifi,Samsung,Galaxy Tab S3,3898MB,Tablet,Qualcomm APQ8096,Qualcomm Adreno 530 (650 MHz),1536x2048,320,arm64-v8a;armeabi;armeabi-v7a,24;28,3.2
-samsung,gts3lwifichn,Samsung,Galaxy Tab S3,3899MB,Tablet,Qualcomm APQ8096,Qualcomm Adreno 530 (650 MHz),1536x2048,320,arm64-v8a;armeabi;armeabi-v7a,26,3.2
+samsung,gts3lwifichn,Samsung,Galaxy Tab S3,3579MB,Tablet,Qualcomm APQ8096,Qualcomm Adreno 530 (650 MHz),1536x2048,320,arm64-v8a;armeabi;armeabi-v7a,24,3.2
 samsung,gts4llte,Samsung,Galaxy Tab S4,3763MB,Tablet,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 samsung,gts4llteatt,Samsung,Galaxy Tab S4,3763MB,Tablet,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 samsung,gts4lltechn,Samsung,Galaxy Tab S4,3763MB,Tablet,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,29,3.2
@@ -678,21 +685,21 @@ samsung,gts4lltetmo,Samsung,Galaxy Tab S4,3763MB,Tablet,Qualcomm MSM8998,Qualcom
 samsung,gts4llteusc,Samsung,Galaxy Tab S4,3763MB,Tablet,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Verizon,gts4lltevzw,Samsung,Galaxy Tab S4,3763MB,Tablet,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 samsung,gts4lv,Samsung,Galaxy Tab S5e,3820MB,Tablet,Qualcomm SDM670,Qualcomm Adreno 615 (420 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-samsung,gts4lvwifi,Samsung,Galaxy Tab S5e,3820MB,Tablet,Qualcomm SDM670,Qualcomm Adreno 615 (420 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
+samsung,gts4lvwifi,Samsung,Galaxy Tab S5e,3820MB,Tablet,Qualcomm SDM670,Qualcomm Adreno 615 (420 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,28;30,3.2
 samsung,gts4lvwifichn,Samsung,Galaxy Tab S5e,3820MB,Tablet,Qualcomm SDM670,Qualcomm Adreno 615 (420 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 samsung,gts4lwifi,Samsung,Galaxy Tab S4,3763MB,Tablet,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 samsung,gts4lwifichn,Samsung,Galaxy Tab S4,3763MB,Tablet,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 samsung,gts6l,Samsung,Galaxy Tab S6,5717MB,Tablet,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,30;31;32,3.2
 samsung,gts6lwifi,Samsung,Galaxy Tab S6,5717MB,Tablet,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,30;31;32,3.2
 samsung,gts6x,Samsung,Galaxy Tab S6 5G,5637MB,Tablet,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,32,3.2
-samsung,gts7fewifi,Samsung,Galaxy Tab S7 FE,3529MB,Tablet,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,30;31;32,3.2
+samsung,gts7fewifi,Samsung,Galaxy Tab S7 FE,3556MB,Tablet,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,30;31;32,3.2
 samsung,gts7l,Samsung,Galaxy Tab S7 5G,5923MB,Tablet,Qualcomm SM8250Pro,Qualcomm Adreno 650 (670 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,31;32,3.2
 samsung,gts7lwifi,Samsung,Galaxy Tab S7,5923MB,Tablet,Qualcomm SM8250Pro,Qualcomm Adreno 650 (670 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,31;32,3.2
-samsung,gts7xl,Samsung,Galaxy Tab S7+ 5G,7993MB,Tablet,Qualcomm SM8250Pro,Qualcomm Adreno 650 (670 MHz),1752x2800,340,arm64-v8a;armeabi;armeabi-v7a,31;32,3.2
-samsung,gts7xllite,Samsung,Galaxy Tab S7 FE 5G,3602MB,Tablet,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,30;31;32,3.2
+samsung,gts7xl,Samsung,Galaxy Tab S7+ 5G,7993MB,Tablet,Qualcomm SM8250Pro,Qualcomm Adreno 650 (670 MHz),1752x2800,340,arm64-v8a;armeabi;armeabi-v7a,32,3.2
+samsung,gts7xllite,Samsung,Galaxy Tab S7 FE,3602MB,Tablet,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,30;31;32,3.2
 samsung,gts7xllitewifi,Samsung,Galaxy Tab S7 FE,3600MB,Tablet,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 samsung,gts7xlwifi,Samsung,Galaxy Tab S7+,7993MB,Tablet,Qualcomm SM8250Pro,Qualcomm Adreno 650 (670 MHz),1752x2800,340,arm64-v8a;armeabi;armeabi-v7a,31;32,3.2
-samsung,gts8,Samsung,Galaxy Tab S8 5G,7651MB,Tablet,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,31;32,3.2
+samsung,gts8,Samsung,Galaxy Tab S8 5G,7651MB,Tablet,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,32,3.2
 samsung,gts8p,Samsung,Galaxy Tab S8+ 5G,7651MB,Tablet,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1752x2800,340,arm64-v8a;armeabi;armeabi-v7a,32,3.2
 samsung,gts8pwifi,Samsung,Galaxy Tab S8+,7651MB,Tablet,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1752x2800,340,arm64-v8a;armeabi;armeabi-v7a,31;32,3.2
 samsung,gts8u,Samsung,Galaxy Tab S8 Ultra 5G,10754MB,Tablet,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1848x2960,320,arm64-v8a;armeabi;armeabi-v7a,32,3.2
@@ -744,7 +751,7 @@ samsung,m20,Samsung,Galaxy M20,2903MB,Phone,Samsung Exynos 7904,ARM Mali G71 (84
 samsung,m20lte,Samsung,Galaxy M20,2866MB,Phone,Samsung Exynos 7904,ARM Mali G71 (845 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,27;28;29,3.2
 samsung,m21,Samsung,Galaxy M21,3744MB,Phone,Samsung Exynos 9611,ARM Mali G72 (1050 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 samsung,m22,Samsung,Galaxy M22,3894MB,Phone,Mediatek MT6769T,ARM Mali G52 (950 MHz),720x1600,300,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-samsung,m23xq,Samsung,Galaxy M23 5G,5690MB,Phone,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1080x2408,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+samsung,m23xq,Samsung,Galaxy F23 5G,5690MB,Phone,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1080x2408,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,m30s,Samsung,Galaxy M30s,3780MB,Phone,Samsung Exynos 9611,ARM Mali G72 (1050 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 samsung,m31,Samsung,SM-M315F,5843MB,Phone,Samsung Exynos 9611,ARM Mali G72 (1050 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 samsung,m31s,Samsung,Galaxy M31s,5844MB,Phone,Samsung Exynos 9611,ARM Mali G72 (1050 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
@@ -752,7 +759,7 @@ samsung,m32,Samsung,Galaxy M32,5927MB,Phone,Mediatek MT6769T,ARM Mali G52 (950 M
 samsung,m33x,Samsung,Galaxy M33 5G,5644MB,Phone,Samsung s5e8825,4x ARM Mali G68 (1000 MHz),1080x2408,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,m51,Samsung,Galaxy M51,7885MB,Phone,Qualcomm SM7150,Qualcomm Adreno 618 (700 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,m52xq,Samsung,Galaxy M52 5G,5602MB,Phone,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-samsung,m53x,Samsung,Galaxy Quantum3 ,7648MB,Phone,Mediatek MT6877,4x ARM Mali G68 (900 MHz),1080x2400,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+samsung,m53x,Samsung,Galaxy M53 5G,7648MB,Phone,Mediatek MT6877,4x ARM Mali G68 (900 MHz),1080x2400,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,m62,Samsung,Galaxy M62,7777MB,Phone,Samsung Exynos 9825,ARM Mali G76 (754 MHz),1080x2400,450,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 samsung,o1q,Samsung,Galaxy S21 5G,7719MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,o1s,Samsung,Galaxy S21 5G,7551MB,Phone,Samsung Exynos 2100,ARM Mali G78 (858 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
@@ -767,7 +774,7 @@ samsung,r3q,Samsung,Galaxy A90 5G,5637MB,Phone,Qualcomm SM8150,Qualcomm Adreno 6
 samsung,r5q,Samsung,Galaxy S10 Lite,7808MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 samsung,r7,Samsung,Galaxy Note10 Lite,7968MB,Phone,Samsung Exynos 9810,ARM Mali G72 (600 MHz),1080x2400,420,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 samsung,r8q,Samsung,Galaxy S20 FE 5G,5901MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-samsung,r8s,Samsung,Galaxy S20 FE,5725MB,Phone,Samsung Exynos 990,ARM Mali G77 (800 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
+samsung,r8s,Samsung,Galaxy S20 FE,5725MB,Phone,Samsung Exynos 990,ARM Mali G77 (800 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 samsung,r9q,Samsung,Galaxy S21 FE 5G,5627MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,r9s,Samsung,Galaxy S21 FE 5G,7654MB,Phone,Samsung Exynos 2100,ARM Mali G78 (858 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,star2lte,Samsung,Galaxy S9+,5893MB,Phone,Samsung Exynos 9810,ARM Mali G72 (600 MHz),1440x2960,420,arm64-v8a;armeabi;armeabi-v7a,26;28;29,3.2
@@ -786,13 +793,13 @@ samsung,t2q,Samsung,Galaxy S21+ 5G,7719MB,Phone,Qualcomm SM8350,Qualcomm Adreno 
 samsung,t2s,Samsung,Galaxy S21+ 5G,7551MB,Phone,Samsung Exynos 2100,ARM Mali G78 (858 MHz),1080x2400,450,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 samsung,v2q,Samsung,三星W22 5G,16092MB,Tablet,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1768x2208,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,victory,Samsung,三星 W21 5G,11110MB,Tablet,Qualcomm SM8250Pro,Qualcomm Adreno 650 (670 MHz),1768x2208,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-samsung,winner,Samsung,Galaxy Fold,11913MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1536x2152,420,arm64-v8a;armeabi;armeabi-v7a,31;32,3.2
-samsung,x1q,Samsung,Galaxy S20 5G,11116MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1440x3200,480,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
-samsung,x1s,Samsung,Galaxy S20 5G,7806MB,Phone,Samsung Exynos 990,ARM Mali G77 (800 MHz),1440x3200,480,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
+samsung,winner,Samsung,Galaxy Fold,11913MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1536x2152,420,arm64-v8a;armeabi;armeabi-v7a,32,3.2
+samsung,x1q,Samsung,Galaxy S20 5G,11116MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1440x3200,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+samsung,x1s,Samsung,Galaxy S20,7806MB,Phone,Samsung Exynos 990,ARM Mali G77 (800 MHz),1440x3200,480,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 samsung,xcoverpro,Samsung,Galaxy XCover Pro,3745MB,Phone,Samsung Exynos 9611,ARM Mali G72 (1050 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 samsung,xcoverpro2,Samsung,Galaxy XCover6 Pro,5636MB,Phone,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1080x2408,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,y2q,Samsung,Galaxy S20+ 5G,11116MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1440x3200,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-samsung,y2s,Samsung,Galaxy S20+ 5G,7806MB,Phone,Samsung Exynos 990,ARM Mali G77 (800 MHz),1440x3200,450,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
+samsung,y2s,Samsung,Galaxy S20+,7806MB,Phone,Samsung Exynos 990,ARM Mali G77 (800 MHz),1440x3200,450,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 samsung,z3q,Samsung,Galaxy S20 Ultra 5G,11117MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1440x3200,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 samsung,z3s,Samsung,Galaxy S20 Ultra 5G,11430MB,Phone,Samsung Exynos 990,ARM Mali G77 (800 MHz),1440x3200,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 samsung,zodiac,Samsung,三星W20,11913MB,Phone,Qualcomm SM8150P,Qualcomm Adreno 640 (675 MHz),1536x2152,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
@@ -816,9 +823,10 @@ KDDI,OJ6,Sharp,AQUOS zero5G basic DX,7817MB,Phone,Qualcomm SM7250,Qualcomm Adren
 KDDI,PCZ,Sharp,AQUOS sense3 SHV45,3926MB,Phone,Qualcomm SDM630,Qualcomm Adreno 508 (650 MHz),1080x2160,480,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 KDDI_u,PCZ-u,Sharp,AQUOS sense3,3926MB,Phone,Qualcomm SDM630,Qualcomm Adreno 508 (650 MHz),1080x2160,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 KDDI,QDA,Sharp,AQUOS zero2 SHV47,7888MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-SHARP,Recoa,Sharp,AQUOS zero6,7856MB,Phone,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-RAKUTEN,Recoa,Sharp,AQUOS zero6,7856MB,Phone,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+SG,Quattro,Sharp,AQUOS sense7 plus,5725MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 SG,Recoa,Sharp,AQUOS zero6,7856MB,Phone,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+RAKUTEN,Recoa,Sharp,AQUOS zero6,7856MB,Phone,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+SHARP,Recoa,Sharp,AQUOS zero6,7856MB,Phone,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 SG,SG808SH,Sharp,AQUOS R3 808SH,5759MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1440x3120,640,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 SG,SG901SH,Sharp,AQUOS sense3 plus (901SH),6005MB,Phone,Qualcomm SDM636,Qualcomm Adreno 509 (370 MHz),1080x2220,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 SG,SG906SH,Sharp,AQUOS zero2 906SH,7888MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
@@ -844,8 +852,8 @@ SG,Sarah,Sharp,AQUOS sense5G,3637MB,Phone,Qualcomm SM6350,Qualcomm Adreno 619 (5
 SHARP,Sarah,Sharp,AQUOS sense5G,3637MB,Phone,Qualcomm SM6350,Qualcomm Adreno 619 (565 MHz),1080x2280,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 SHARP,SarahH,Sharp,AQUOS sense5G SH-S50,7856MB,Phone,Qualcomm SM6350,Qualcomm Adreno 619 (565 MHz),1080x2280,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 KDDI,TGD,Sharp,AQUOS R5G SHG01,12218MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1440x3168,640,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-SHARP,VG2,Sharp,AQUOS sense4 plus,7941MB,Phone,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 RAKUTEN,VG2,Sharp,AQUOS sense4 plus,7941MB,Phone,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+SHARP,VG2,Sharp,AQUOS sense4 plus,7941MB,Phone,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 KDDI,WJG,Sharp,AQUOS sense5G,3637MB,Phone,Qualcomm SM6350,Qualcomm Adreno 619 (565 MHz),1080x2280,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 KDDI,XKH,Sharp,AQUOS zero6,7856MB,Phone,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1080x2340,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 KDDI,ZMJ,Sharp,AQUOS sense6,3637MB,Phone,Qualcomm SM6350,Qualcomm Adreno 619 (565 MHz),1080x2432,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
@@ -861,6 +869,7 @@ Sony,A102SO,Sony,Xperia 10 III,5748MB,Phone,Qualcomm SM6350,Qualcomm Adreno 619 
 Sony,A103SO,Sony,Xperia 5 III,7548MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2520,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Sony,A201SO,Sony,Xperia 1 IV,11608MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1096x2560,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Sony,A202SO,Sony,Xperia 10 IV,5747MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2520,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+Sony,A204SO,Sony,Xperia 5 IV,7424MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1080x2520,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Sony,G8141,Sony,Xperia XZ Premium,3909MB,Phone,Qualcomm MSM8996,Qualcomm Adreno 530 (653 MHz),1080x1920,480,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 Sony,G8142,Sony,Xperia XZ Premium,3909MB,Phone,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1080x1920,480,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 Sony,G8188,Sony,Xperia XZ Premium,3909MB,Phone,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1080x1920,480,arm64-v8a;armeabi;armeabi-v7a,28,3.2
@@ -905,7 +914,7 @@ docomo,SO-52B,Sony,Xperia 10 III,5748MB,Phone,Qualcomm SM6350,Qualcomm Adreno 61
 docomo,SO-52C,Sony,Xperia 10 IV,5747MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2520,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 docomo,SO-53B,Sony,Xperia 5 III,7548MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2520,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 docomo,SO-53C,Sony,Xperia Ace III,3641MB,Phone,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),720x1496,300,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-docomo,SO-54C,Sony,Xperia 5 IV,7420MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1080x2520,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+docomo,SO-54C,Sony,Xperia 5 IV,7424MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1080x2520,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 KDDI,SOG01,Sony,Xperia 1 II,8071MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1096x2560,420,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 KDDI,SOG02,Sony,Xperia 5 II,8037MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2520,420,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 KDDI,SOG03,Sony,Xperia 1 III,11719MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1096x2560,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
@@ -914,6 +923,7 @@ KDDI,SOG05,Sony,Xperia 5 III,7548MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (8
 KDDI,SOG06,Sony,Xperia 1 IV,11608MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1096x2560,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 KDDI,SOG07,Sony,Xperia 10 IV,5747MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2520,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 KDDI,SOG08,Sony,Xperia Ace III,3641MB,Phone,Qualcomm SM4350,Qualcomm Adreno 619 (650 MHz),720x1496,300,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+KDDI,SOG09,Sony,Xperia 5 IV,7424MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1080x2520,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 KDDI,SOV36,Sony,Xperia XZ1,3909MB,Phone,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1080x1920,480,arm64-v8a;armeabi;armeabi-v7a,28,3.2
 KDDI,SOV37,Sony,Xperia XZ2,3859MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1080x2160,480,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 KDDI,SOV38,Sony,Xperia XZ2 Premium,5954MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1080x1920,420,arm64-v8a;armeabi;armeabi-v7a,29,3.2
@@ -947,6 +957,9 @@ Sony,XQ-BT52,Sony,Xperia 10 III,5748MB,Phone,Qualcomm SM6350,Qualcomm Adreno 619
 Sony,XQ-CC44,Sony,Xperia 10 IV,5747MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2520,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Sony,XQ-CC54,Sony,Xperia 10 IV,5747MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2520,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Sony,XQ-CC72,Sony,Xperia 10 IV,5747MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2520,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+Sony,XQ-CQ44,Sony,Xperia 5 IV,7424MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1080x2520,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+Sony,XQ-CQ54,Sony,Xperia 5 IV,7424MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1080x2520,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+Sony,XQ-CQ72,Sony,Xperia 5 IV,7424MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1080x2520,450,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Sony,XQ-CT44,Sony,Xperia 1 IV,15804MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1096x2560,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Sony,XQ-CT54,Sony,Xperia 1 IV,11608MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1096x2560,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Sony,XQ-CT62,Sony,Xperia 1 IV,11608MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1096x2560,420,arm64-v8a;armeabi;armeabi-v7a,31,3.2
@@ -969,7 +982,7 @@ TECNO,TECNO-CH9,Tecno,TECNO CAMON 18 Premier,8198MB,Phone,Mediatek MT6781V/CD,2x
 TECNO,TECNO-CH9n,Tecno,TECNO CAMON 18 Premier,8198MB,Phone,Mediatek MT6781V/CD,2x ARM Mali G57 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 TECNO,TECNO-CI7n,Tecno,CAMON 19 Pro 5G,8014MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 TECNO,TECNO-CI8,Tecno,CAMON 19 Pro,8123MB,Phone,Mediatek MT6781V/CD,2x ARM Mali G57 (950 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-TECNO,TECNO-CI8n,Tecno,CAMON 19 Pro,8123MB,Phone,Mediatek MT6781V/CD,2x ARM Mali G57 (950 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+TECNO,TECNO-CI8n,Tecno,CAMON 19 Pro,8122MB,Phone,Mediatek MT6781V/CD,2x ARM Mali G57 (950 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 TECNO,TECNO-LE7,Tecno,TECNO POVA 2,6047MB,Phone,Mediatek MT6769,ARM Mali G52 (820 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 TECNO,TECNO-LE7n,Tecno,TECNO POVA 2,3940MB,Phone,Mediatek MT6769,ARM Mali G52 (820 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 TECNO,TECNO-LE8,Tecno,TECNO POVA 5G,8007MB,Phone,Mediatek MT6877V/TZA,4x ARM Mali G68 (950 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
@@ -999,18 +1012,16 @@ vivo,2041,Vivo,V2041,7997MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),
 vivo,2045,Vivo,V2045,8023MB,Phone,Qualcomm SM8250ac,3x Qualcomm Adreno 650 (670 MHz),1080x2376,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 vivo,2046,Vivo,V2046,12202MB,Phone,Qualcomm SM8250ac,3x Qualcomm Adreno 650 (670 MHz),1080x2376,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 vivo,2047,Vivo,V2047,11851MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2376,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-vivo,2050,Vivo,V2050,7914MB,Phone,Mediatek MT6853V/TNZA,3x ARM Mali G57 (748 MHz),1080x2404,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-vivo,2105,Vivo,V2105,7863MB,Phone,Mediatek MT6893,9x ARM Mali G77 (805 MHz),1080x2376,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+vivo,2050,Vivo,V2066,7914MB,Phone,Mediatek MT6853V/TNZA,3x ARM Mali G57 (748 MHz),1080x2404,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+vivo,2105,Vivo,V2104,7863MB,Phone,Mediatek MT6893,9x ARM Mali G77 (805 MHz),1080x2376,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 vivo,2124,Vivo,V2124,7995MB,Phone,Mediatek MT6833,2x ARM Mali G57 (950 MHz),1080x2408,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 vivo,2126,Vivo,V2126,7995MB,Phone,Mediatek MT6833V/MNZA,2x ARM Mali G57 (780 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 vivo,2130,Vivo,V2130,7922MB,Phone,Mediatek MT6877V/TZA,4x ARM Mali G68 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 iQOO,I1928,Vivo,I1927,8023MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 vivo,PD1805,Vivo,vivo NEX S,7913MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1080x2316,480,arm64-v8a;armeabi;armeabi-v7a,29,3.2
-vivo,PD1818C,Vivo,Y93s,3822MB,Phone,Mediatek MT6762,Imagination Tech PowerVR GE8320 (650 MHz),1440x2960,560,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 vivo,PD1824,Vivo,V1824A,7848MB,Phone,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-vivo,PD1930,Vivo,V1930A,3822MB,Phone,Qualcomm SDM439,Qualcomm Adreno 505 (560 MHz),1440x2960,560,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 vivo,PD1981,Vivo,V1981A,8022MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2408,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-vivo,V2144,Vivo,X80,7737MB,Phone,Mediatek MT6983,10x ARM Mali G710 (848 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+vivo,V2144,Vivo,X80,7753MB,Phone,Mediatek MT6983,10x ARM Mali G710 (848 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 vivo,V2145,Vivo,X80 Pro,11835MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 vivo,V2158,Vivo,V25 Pro,7828MB,Phone,Mediatek MT6893,9x ARM Mali G77 (805 MHz),1080x2376,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 vivo,V2202,Vivo,V25,7929MB,Phone,Mediatek MT6877,4x ARM Mali G68 (900 MHz),1080x2404,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
@@ -1025,28 +1036,30 @@ Xiaomi,cas,Xiaomi,Mi 10 Ultra,12160MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 
 Xiaomi,cepheus,Xiaomi,MI 9,5771MB,Phone,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 Xiaomi,cmi,Xiaomi,Mi 10 Pro,12160MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Xiaomi,courbet,Xiaomi,Mi 11 Lite,5840MB,Phone,Qualcomm SM7150,Qualcomm Adreno 618 (700 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-Xiaomi,courbetin,Xiaomi,Mi 11 Lite,5840MB,Phone,Qualcomm SM7150,Qualcomm Adreno 618 (700 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+Xiaomi,courbetin,Xiaomi,Mi 11 Lite,5840MB,Phone,Qualcomm SM7150,Qualcomm Adreno 618 (700 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Xiaomi,cupid,Xiaomi,Xiaomi 12,7545MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Xiaomi,dipper,Xiaomi,MI 8,5903MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1080x2248,440,arm64-v8a;armeabi;armeabi-v7a,28;29,3.2
 Redmi,diting,Xiaomi,Xiaomi 12T Pro,11716MB,Phone,QTI SM8475,Qualcomm Adreno 730 (900 MHz),1220x2712,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+Xiaomi,diting,Xiaomi,Xiaomi 12T Pro,7532MB,Phone,QTI SM8475,Qualcomm Adreno 730 (900 MHz),1220x2712,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Xiaomi,gauguin,Xiaomi,Mi 10T Lite,5646MB,Phone,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 Xiaomi,gauguininpro,Xiaomi,Mi 10i ,5646MB,Phone,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 Xiaomi,grus,Xiaomi,MI 9 SE,5892MB,Phone,Qualcomm SDM712,Qualcomm Adreno 616 (500 MHz),1080x2340,480,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
 Xiaomi,haydn,Xiaomi,Mi 11i,7654MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 Xiaomi,haydnin,Xiaomi,Mi 11X Pro,7654MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Xiaomi,laurel_sprout,Xiaomi,Mi A3,3786MB,Phone,Qualcomm SM6125,Qualcomm Adreno 610 (950 MHz),720x1560,320,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
-Xiaomi,lisa,Xiaomi,Xiaomi 11 Lite NE,7552MB,Phone,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
+Xiaomi,lisa,Xiaomi,Xiaomi 11 Lite 5G NE,7552MB,Phone,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 Redmi,lmipro,Xiaomi,Redmi K30 Pro Zoom Edition,7982MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Xiaomi,mars,Xiaomi,Mi 11 Pro,11746MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1440x3200,560,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-Xiaomi,monet,Xiaomi,Mi 10 Lite 5G,5693MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
+Xiaomi,monet,Xiaomi,Mi 10 lite 5G,5693MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 Xiaomi,nabu,Xiaomi,Xiaomi Pad 5,5769MB,Tablet,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 Xiaomi,perseus,Xiaomi,MIX 3,5903MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Xiaomi,pissarroinpro,Xiaomi,Xiaomi 11i HyperCharge,5763MB,Phone,Mediatek MT6877V/TZA,4x ARM Mali G68 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 Xiaomi,polaris,Xiaomi,MIX 2S,5905MB,Phone,Qualcomm SDM845,Qualcomm Adreno 630 (650 MHz),1080x2160,440,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Xiaomi,psyche,Xiaomi,Xiaomi 12X,7976MB,Phone,Qualcomm SM8250ac,3x Qualcomm Adreno 650 (670 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-Xiaomi,pyxis,Xiaomi,Mi 9 Lite,5891MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,28;29;30,3.2
+Xiaomi,pyxis,Xiaomi,Mi 9 Lite,5891MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
 Xiaomi,renoir,Xiaomi,Mi 11 Lite 5G,7679MB,Phone,Qualcomm SM7250,Qualcomm Adreno 620 (625 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
-Xiaomi,sirius,Xiaomi,MI 8 SE,2841MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1080x1920,480,arm64-v8a;armeabi;armeabi-v7a,27,3.2
+POCO,rosemary,Xiaomi,POCO M5s,5863MB,Phone,Mediatek MT6785,ARM Mali G76 (720 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+Xiaomi,sirius,Xiaomi,MI 8 SE,2824MB,Phone,Qualcomm SDM710,Qualcomm Adreno 616 (500 MHz),1080x1920,480,arm64-v8a;armeabi;armeabi-v7a,27,3.2
 Xiaomi,star,Xiaomi,Mi 11 Ultra,11746MB,Phone,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1440x3200,560,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Xiaomi,taoyao,Xiaomi,Xiaomi 12 Lite,7526MB,Phone,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Xiaomi,toco,Xiaomi,Mi Note 10 Lite,5840MB,Phone,Qualcomm SM7150,Qualcomm Adreno 618 (700 MHz),1080x2340,440,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
@@ -1065,7 +1078,7 @@ Zebra,EC50,Zebra,EC50,3920MB,Phone,Qualcomm SDM660,Qualcomm Adreno 512 (650 MHz)
 Zebra,EC55,Zebra,EC55,3920MB,Phone,Qualcomm SDA660,Qualcomm Adreno 512 (850 MHz),720x1280,320,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Zebra,ET40L,Zebra,ET40,3864MB,Tablet,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1200x1920,240,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Zebra,ET40S,Zebra,ET40,3864MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),800x1280,220,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-Zebra,ET45L,Zebra,ET45,3637MB,Tablet,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1200x1920,240,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+Zebra,ET45L,Zebra,ET45,3640MB,Tablet,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1200x1920,240,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Zebra,ET45S,Zebra,ET45,3637MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),800x1280,220,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Zebra,ET51L,Zebra,Zebra Technologies ET51,3920MB,Tablet,Qualcomm SDM660,Qualcomm Adreno 512 (650 MHz),1600x2560,320,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Zebra,ET51S,Zebra,Zebra Technologies ET51,3920MB,Tablet,Qualcomm SDM660,Qualcomm Adreno 512 (650 MHz),1600x2560,320,arm64-v8a;armeabi;armeabi-v7a,29,3.2
@@ -1073,9 +1086,9 @@ Zebra,ET56L,Zebra,Zebra Technologies ET56,3920MB,Tablet,Qualcomm SDM660,Qualcomm
 Zebra,ET56S,Zebra,Zebra Technologies ET56,3914MB,Tablet,Qualcomm SDM660,Qualcomm Adreno 512 (650 MHz),1600x2560,320,arm64-v8a;armeabi;armeabi-v7a,27,3.2
 Zebra,TC21,Zebra,TC21,3920MB,Phone,Qualcomm SDA660,Qualcomm Adreno 512 (850 MHz),720x1280,320,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Zebra,TC26,Zebra,Zebra Technologies TC26,2869MB,Phone,Qualcomm SDM660,Qualcomm Adreno 512 (650 MHz),720x1280,320,arm64-v8a;armeabi;armeabi-v7a,29,3.2
-Zebra,TC52,Zebra,Zebra Technologies TC52,3914MB,Phone,Qualcomm SDM660,Qualcomm Adreno 512 (650 MHz),720x1280,320,arm64-v8a;armeabi;armeabi-v7a,27;29,3.2
+Zebra,TC52,Zebra,Zebra Technologies TC52,3914MB,Phone,Qualcomm SDM660,Qualcomm Adreno 512 (650 MHz),720x1280,320,arm64-v8a;armeabi;armeabi-v7a,27;29;30,3.2
 Zebra,TC52X,Zebra,Zebra Technologies TC52ax,3844MB,Phone,Qualcomm SDA660,Qualcomm Adreno 512 (850 MHz),1080x1920,480,arm64-v8a;armeabi;armeabi-v7a,29;30,3.2
-Zebra,TC53,Zebra,TC53,3532MB,Phone,Qualcomm QCS6490,Qualcomm Adreno 643 (812 MHz),1080x2160,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+Zebra,TC53,Zebra,TC53,7710MB,Phone,Qualcomm QCS6490,Qualcomm Adreno 643 (812 MHz),1080x2160,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Zebra,TC57,Zebra,Zebra Technologies TC57,3914MB,Phone,Qualcomm SDM660,Qualcomm Adreno 512 (650 MHz),720x1280,320,arm64-v8a;armeabi;armeabi-v7a,27;29,3.2
 Zebra,TC57X,Zebra,Zebra Technologies TC57x,3920MB,Phone,Qualcomm SDM660,Qualcomm Adreno 512 (650 MHz),1080x1920,480,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Zebra,TC58,Zebra,TC58,7710MB,Phone,Qualcomm QCM6490,Qualcomm Adreno 643 (812 MHz),1080x2160,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
@@ -1085,13 +1098,13 @@ realme,RE5081,realme,真我V13 5G,8012MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G
 realme,RE513CL1,realme,realme 8 5G	,8012MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 realme,RE54ABL1,realme,realme GT Master Edition	,7635MB,Phone,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 realme,RE54CBL1,realme,realme 9Pro 5G,5686MB,Phone,QTI SM6375,Qualcomm Adreno 619 (840 MHz),1080x2412,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-realme,RE879EL1,realme,realme 9 Pro+,7927MB,Phone,Mediatek MT6877V/TZA,4x ARM Mali G68 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+realme,RE879EL1,realme,narzo 50 Pro 5G,7926MB,Phone,Mediatek MT6877V/TZA,4x ARM Mali G68 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 realme,RED8ACL1,realme,realme GT 2 Pro	,11776MB,Phone,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1440x3216,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 realme,RED8BEL1,realme,realme GT NEO 3 150W,7749MB,Phone,Mediatek MT6895Z/TCZA,6x ARM Mali G610 (850 MHz),1080x2412,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 realme,RMX2061L1,realme,realme 6Pro,7963MB,Phone,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 realme,RMX2063L1,realme,realme 6Pro,7963MB,Phone,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 realme,RMX2076L1,realme,realme X50 Pro,7866MB,Phone,Qualcomm SM8250,Qualcomm Adreno 650 (587 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-realme,RMX2083L1,realme,realme X3,7855MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+realme,RMX2083L1,realme,realme X3,7855MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 realme,RMX2086L1,realme,realme X3,12034MB,Phone,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 realme,RMX2111L1,realme,realme 7 5G,5745MB,Phone,Mediatek MT6853V/TNZA,3x ARM Mali G57 (748 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 realme,RMX2151L1,realme,realme 7,5968MB,Phone,Mediatek MT6785,ARM Mali G76 (720 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
