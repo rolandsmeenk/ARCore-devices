@@ -5,12 +5,12 @@ lge,tf10w,LGE,G Pad 5 10.1 FHD,3880MB,Tablet,Qualcomm MSM8996Pro,Qualcomm Adreno
 Lenovo,J607Z,Lenovo,Lenovo Tab P11 5G,5733MB,Tablet,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Lenovo,J706F,Lenovo,Lenovo Tab P11 Pro,5907MB,Tablet,Qualcomm SDM712,Qualcomm Adreno 616 (500 MHz),1600x2560,320,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Lenovo,J706L,Lenovo,Lenovo Tab P11 Pro,5907MB,Tablet,Qualcomm SDM712,Qualcomm Adreno 616 (500 MHz),1600x2560,320,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-Lenovo,Q706F,Lenovo,Lenovo Tab P12 Pro,8030MB,Tablet,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1600x2560,240,arm64-v8a;armeabi;armeabi-v7a,32,3.2
+Lenovo,Q706F,Lenovo,小新Pad Pro 12.6,8030MB,Tablet,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1600x2560,240,arm64-v8a;armeabi;armeabi-v7a,32,3.2
 Lenovo,Q706Z,Lenovo,Lenovo Tab P12 Pro,8030MB,Tablet,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1600x2560,240,arm64-v8a;armeabi;armeabi-v7a,32,3.2
 Lenovo,TB-J616F,Lenovo,Lenovo Tab P11 Plus,3977MB,Tablet,Mediatek MT8183A,3x ARM Mali G72 (800 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2
 Lenovo,TB-J616X,Lenovo,Lenovo Tab P11 Plus,3680MB,Tablet,Mediatek MT8788A,3x ARM Mali G72 (800 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 Lenovo,TB125FU,Lenovo,Lenovo Tab M10 Plus 3rd Gen,4044MB,Tablet,Mediatek MT8768T,Imagination Tech PowerVR GE8320 (680 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,31,3.2
-Lenovo,TB128FU,Lenovo,启天K10 Pro,3847MB,Tablet,Qualcomm SM6125,Qualcomm Adreno 610 (950 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,31,3.2
+Lenovo,TB128FU,Lenovo,Lenovo Tab M10 Plus 3rd Gen,3847MB,Tablet,Qualcomm SM6125,Qualcomm Adreno 610 (950 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Lenovo,TB128XU,Lenovo,Lenovo Tab M10 Plus 3rd Gen,3848MB,Tablet,Qualcomm SM6150,Qualcomm Adreno 612 (845 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Lenovo,TB132FU,Lenovo,Lenovo Tab P11 Pro (2nd Gen),8233MB,Tablet,Mediatek MT8789,4x ARM Mali G76 (720 MHz),1536x2560,320,arm64-v8a;armeabi;armeabi-v7a,31,3.2
 Lenovo,TB350FU,Lenovo,Lenovo Tab P11 (2nd Gen),6115MB,Tablet,Mediatek MT8781V/CA,2x ARM Mali G57 (1000 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,32,3.2
@@ -22,16 +22,16 @@ NEC,LAVIETab102K1,NEC,LAVIE Tab 102K1,5956MB,Tablet,Qualcomm SM6125,Qualcomm Adr
 NEC,LAVIETabT1212QHD1,NEC,LAVIETab T12 12QHD1,8031MB,Tablet,Qualcomm SDM855,Qualcomm Adreno 640 (585 MHz),1600x2560,240,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 OnePlus,OnePlus3T,OnePlus,OnePlus3T,4294MB,Tablet,Qualcomm MSM8996,Qualcomm Adreno 530 (653 MHz),900x1600,240,armeabi;armeabi-v7a;x86,25;28,3.2
 OnePlus,OnePlus5,OnePlus,OnePlus5,4294MB,Tablet,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),900x1600,240,armeabi;armeabi-v7a;x86,25;28;29,3.2
-OPPO,OP4E75L1,Oppo,Find N,11791MB,Tablet,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1792x1920,440,arm64-v8a;armeabi;armeabi-v7a,30,3.2
+OPPO,OP4E75L1,Oppo,Find N,11810MB,Tablet,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1792x1920,440,arm64-v8a;armeabi;armeabi-v7a,33,3.2
 samsung,SC-55B,Samsung,Galaxy Z Fold3 5G,11912MB,Tablet,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1768x2208,420,arm64-v8a;armeabi;armeabi-v7a,33,3.2
 samsung,SC-55C,Samsung,Galaxy Z Fold4,11805MB,Tablet,QTI SM8475,Qualcomm Adreno 730 (900 MHz),1812x2176,420,arm64-v8a;armeabi;armeabi-v7a,33,3.2
 samsung,SCG11,Samsung,Galaxy Z Fold3 5G,11912MB,Tablet,Qualcomm SM8350,Qualcomm Adreno 660 (840 MHz),1768x2208,420,arm64-v8a;armeabi;armeabi-v7a,33,3.2
 samsung,SCG16,Samsung,Galaxy Z Fold4,11805MB,Tablet,QTI SM8475,Qualcomm Adreno 730 (900 MHz),1812x2176,420,arm64-v8a;armeabi;armeabi-v7a,33,3.2
 samsung,gta4l,Samsung,Galaxy Tab A7,2836MB,Tablet,Qualcomm SM6115,Qualcomm Adreno 610 (950 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
 samsung,gta4lwifi,Samsung,Galaxy Tab A7,2835MB,Tablet,Qualcomm SM6115,Qualcomm Adreno 610 (950 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,29;30;31,3.2
-samsung,gta4xl,Samsung,Galaxy Tab S6 Lite,3743MB,Tablet,Samsung Exynos 9611,ARM Mali G72 (1050 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,29;30;31;32,3.2
-samsung,gta4xlve,Samsung,Galaxy Tab S6 Lite,3676MB,Tablet,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,31;32;33,3.2
-samsung,gta4xlvewifi,Samsung,Galaxy Tab S6 Lite,3676MB,Tablet,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,31;32;33,3.2
+samsung,gta4xl,Samsung,Galaxy Tab S6 Lite,3743MB,Tablet,Samsung Exynos 9611,ARM Mali G72 (1050 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,29;30;31;32;33,3.2
+samsung,gta4xlve,Samsung,Galaxy Tab S6 Lite,3676MB,Tablet,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,31;33,3.2
+samsung,gta4xlvewifi,Samsung,SM-P613,3676MB,Tablet,Qualcomm SM7125,Qualcomm Adreno 618 (750 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,31;32;33,3.2
 samsung,gta4xlwifi,Samsung,Galaxy Tab S6 Lite,3888MB,Tablet,Samsung Exynos 9611,ARM Mali G72 (1050 MHz),1200x2000,240,arm64-v8a;armeabi;armeabi-v7a,29;30;31;32;33,3.2
 samsung,gta8,Samsung,Galaxy Tab A8,3683MB,Tablet,Spreadtrum T618,2x ARM Mali G52 (850 MHz),1200x1920,240,arm64-v8a;armeabi;armeabi-v7a,30;31;33,3.2
 samsung,gta8wifi,Samsung,Galaxy Tab A8,2596MB,Tablet,Spreadtrum T618,2x ARM Mali G52 (850 MHz),1200x1920,240,arm64-v8a;armeabi;armeabi-v7a,30;31;33,3.2
@@ -55,18 +55,18 @@ samsung,gts4lltetmo,Samsung,Galaxy Tab S4,3763MB,Tablet,Qualcomm MSM8998,Qualcom
 samsung,gts4llteusc,Samsung,Galaxy Tab S4,3763MB,Tablet,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 Verizon,gts4lltevzw,Samsung,Galaxy Tab S4,3763MB,Tablet,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 samsung,gts4lv,Samsung,Galaxy Tab S5e,3820MB,Tablet,Qualcomm SDM670,Qualcomm Adreno 615 (420 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,30,3.2
-samsung,gts4lvwifi,Samsung,Galaxy Tab S5e,3820MB,Tablet,Qualcomm SDM670,Qualcomm Adreno 615 (420 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,28;30,3.2
+samsung,gts4lvwifi,Samsung,Galaxy Tab S5e,3820MB,Tablet,Qualcomm SDM670,Qualcomm Adreno 615 (420 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 samsung,gts4lvwifichn,Samsung,Galaxy Tab S5e,3820MB,Tablet,Qualcomm SDM670,Qualcomm Adreno 615 (420 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 samsung,gts4lwifi,Samsung,Galaxy Tab S4,3763MB,Tablet,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,29,3.2
 samsung,gts4lwifichn,Samsung,Galaxy Tab S4,3763MB,Tablet,Qualcomm MSM8998,Qualcomm Adreno 540 (650 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,29,3.2
-samsung,gts6l,Samsung, Galaxy Tab S6 ,5717MB,Tablet,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,30;32,3.2
+samsung,gts6l,Samsung,Galaxy Tab S6,5717MB,Tablet,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,30;32,3.2
 samsung,gts6lwifi,Samsung,Galaxy Tab S6,5717MB,Tablet,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,32,3.2
 samsung,gts6x,Samsung,Galaxy Tab S6 5G,5637MB,Tablet,Qualcomm SM8150,Qualcomm Adreno 640 (585 MHz),1600x2560,360,arm64-v8a;armeabi;armeabi-v7a,32,3.2
 samsung,gts7fewifi,Samsung,Galaxy Tab S7 FE,3556MB,Tablet,Qualcomm SM7325,Qualcomm Adreno 642l (550 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,31;32;33,3.2
 samsung,gts7l,Samsung,Galaxy Tab S7 5G,5923MB,Tablet,Qualcomm SM8250Pro,Qualcomm Adreno 650 (670 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,32;33,3.2
 samsung,gts7lwifi,Samsung,Galaxy Tab S7,5923MB,Tablet,Qualcomm SM8250Pro,Qualcomm Adreno 650 (670 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,31;32;33,3.2
 samsung,gts7xl,Samsung,Galaxy Tab S7+ 5G,7993MB,Tablet,Qualcomm SM8250Pro,Qualcomm Adreno 650 (670 MHz),1752x2800,340,arm64-v8a;armeabi;armeabi-v7a,32;33,3.2
-samsung,gts7xllite,Samsung,Galaxy Tab S7 FE 5G,3602MB,Tablet,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,31;32;33,3.2
+samsung,gts7xllite,Samsung,Galaxy Tab S7 FE,3602MB,Tablet,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,31;32;33,3.2
 samsung,gts7xllitewifi,Samsung,Galaxy Tab S7 FE,3600MB,Tablet,Qualcomm SM7225,Qualcomm Adreno 619 (800 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,30,3.2
 samsung,gts7xlwifi,Samsung,Galaxy Tab S7+,5901MB,Tablet,Qualcomm SM8250Pro,Qualcomm Adreno 650 (670 MHz),1752x2800,340,arm64-v8a;armeabi;armeabi-v7a,32;33,3.2
 samsung,gts8,Samsung,Galaxy Tab S8 5G,7654MB,Tablet,QTI SM8450,Qualcomm Adreno 730 (818 MHz),1600x2560,340,arm64-v8a;armeabi;armeabi-v7a,33,3.2
